@@ -1,0 +1,8026 @@
+[
+    {
+        "input": "Service Delivery Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Security Incident Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "GitHub",
+        "label": "t_skill"
+    },
+    {
+        "input": "ESLint",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions adaptation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Travis CI",
+        "label": "t_skill"
+    },
+    {
+        "input": "focus solutions orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "BigQuery",
+        "label": "t_skill"
+    },
+    {
+        "input": "execution oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "client experience",
+        "label": "o_skill"
+    },
+    {
+        "input": "outputs achievement",
+        "label": "o_skill"
+    },
+    {
+        "input": "Computer Vision",
+        "label": "t_skill"
+    },
+    {
+        "input": "conflicting",
+        "label": "o_skill"
+    },
+    {
+        "input": "integration",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Flume",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Cloud Functions",
+        "label": "t_skill"
+    },
+    {
+        "input": "task completion output",
+        "label": "o_skill"
+    },
+    {
+        "input": "JWT (JSON Web Token)",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks results oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Django",
+        "label": "t_skill"
+    },
+    {
+        "input": "Prometheus",
+        "label": "t_skill"
+    },
+    {
+        "input": "result oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Capacity Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Wireshark",
+        "label": "t_skill"
+    },
+    {
+        "input": "Databricks Runtime",
+        "label": "t_skill"
+    },
+    {
+        "input": "Proof-of-Burn",
+        "label": "t_skill"
+    },
+    {
+        "input": "results oriented delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "stakeholder engagement",
+        "label": "o_skill"
+    },
+    {
+        "input": "Session Hijacking",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cloudflare CDN",
+        "label": "t_skill"
+    },
+    {
+        "input": "team oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ansible",
+        "label": "t_skill"
+    },
+    {
+        "input": "priority",
+        "label": "o_skill"
+    },
+    {
+        "input": "Acunetix",
+        "label": "t_skill"
+    },
+    {
+        "input": "Microsoft SQL Server",
+        "label": "t_skill"
+    },
+    {
+        "input": "ActiveMQ",
+        "label": "t_skill"
+    },
+    {
+        "input": "delivery focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution driven results focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "tactical approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "Envoy Proxy",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Flink",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution focused results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "finish",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Hive",
+        "label": "t_skill"
+    },
+    {
+        "input": "cooperation focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution oriented team",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloud Computing",
+        "label": "t_skill"
+    },
+    {
+        "input": "execution oriented plans",
+        "label": "o_skill"
+    },
+    {
+        "input": "result execution oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Blockchain Interoperability",
+        "label": "t_skill"
+    },
+    {
+        "input": "client focused results",
+        "label": "o_skill"
+    },
+    {
+        "input": "unified",
+        "label": "o_skill"
+    },
+    {
+        "input": "Anti-Phishing Software",
+        "label": "t_skill"
+    },
+    {
+        "input": "programming",
+        "label": "o_skill"
+    },
+    {
+        "input": "BitLocker",
+        "label": "t_skill"
+    },
+    {
+        "input": "coordination driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloud Foundry",
+        "label": "t_skill"
+    },
+    {
+        "input": "Non-Fungible Tokens (NFTs)",
+        "label": "t_skill"
+    },
+    {
+        "input": "AWS WAF",
+        "label": "t_skill"
+    },
+    {
+        "input": "perspective",
+        "label": "o_skill"
+    },
+    {
+        "input": "support driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "CI/CD Pipelines",
+        "label": "t_skill"
+    },
+    {
+        "input": "clear",
+        "label": "o_skill"
+    },
+    {
+        "input": "responsible",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS Trusted Advisor",
+        "label": "t_skill"
+    },
+    {
+        "input": "SIEM (Security Information and Event Management)",
+        "label": "t_skill"
+    },
+    {
+        "input": "API Gateway",
+        "label": "t_skill"
+    },
+    {
+        "input": "Looking",
+        "label": "o_skill"
+    },
+    {
+        "input": "Bluetooth Low Energy (BLE)",
+        "label": "t_skill"
+    },
+    {
+        "input": "C++",
+        "label": "t_skill"
+    },
+    {
+        "input": "output task",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "DAO (Decentralized Autonomous Organizations)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Ethical Hacking",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cisco Firepower",
+        "label": "t_skill"
+    },
+    {
+        "input": "Yellowfin BI",
+        "label": "t_skill"
+    },
+    {
+        "input": "Enzyme",
+        "label": "t_skill"
+    },
+    {
+        "input": "Attribute-Based Access Control (ABAC)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Web Proxy",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cloudera",
+        "label": "t_skill"
+    },
+    {
+        "input": "fast paced",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion task",
+        "label": "o_skill"
+    },
+    {
+        "input": "result execution target",
+        "label": "o_skill"
+    },
+    {
+        "input": "final execution targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "effective solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS Global Accelerator",
+        "label": "t_skill"
+    },
+    {
+        "input": "Anomaly Detection",
+        "label": "t_skill"
+    },
+    {
+        "input": "in",
+        "label": "o_skill"
+    },
+    {
+        "input": "communication oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Red Hat OpenShift",
+        "label": "t_skill"
+    },
+    {
+        "input": "deadlines",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ansible",
+        "label": "t_skill"
+    },
+    {
+        "input": "decision making",
+        "label": "o_skill"
+    },
+    {
+        "input": "TensorFlow",
+        "label": "t_skill"
+    },
+    {
+        "input": "innovation action",
+        "label": "o_skill"
+    },
+    {
+        "input": "action",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google BigQuery",
+        "label": "t_skill"
+    },
+    {
+        "input": "task delivery results",
+        "label": "o_skill"
+    },
+    {
+        "input": "API Authentication",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion results output",
+        "label": "o_skill"
+    },
+    {
+        "input": "VLAN",
+        "label": "t_skill"
+    },
+    {
+        "input": "Dynamic Analysis",
+        "label": "t_skill"
+    },
+    {
+        "input": "Double Spend Attack",
+        "label": "t_skill"
+    },
+    {
+        "input": "project delivery targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "lifecycle",
+        "label": "o_skill"
+    },
+    {
+        "input": "CloudWatch Logs",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution achievement",
+        "label": "o_skill"
+    },
+    {
+        "input": "F5 BIG-IP",
+        "label": "t_skill"
+    },
+    {
+        "input": "Web Servers",
+        "label": "t_skill"
+    },
+    {
+        "input": "MapReduce",
+        "label": "t_skill"
+    },
+    {
+        "input": "Staking Pools",
+        "label": "t_skill"
+    },
+    {
+        "input": "Hash Time-Locked Contracts (HTLC)",
+        "label": "t_skill"
+    },
+    {
+        "input": "experience driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Red Teaming",
+        "label": "t_skill"
+    },
+    {
+        "input": "IPFS (InterPlanetary File System)",
+        "label": "t_skill"
+    },
+    {
+        "input": "initiative impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "OpenMP",
+        "label": "t_skill"
+    },
+    {
+        "input": "IP Whitelisting",
+        "label": "t_skill"
+    },
+    {
+        "input": "Data Visualization",
+        "label": "t_skill"
+    },
+    {
+        "input": "AWS",
+        "label": "t_skill"
+    },
+    {
+        "input": "Gradient Boosting",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks results focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "detailed",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS Elastic Load Balancer",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kubernetes Helm",
+        "label": "t_skill"
+    },
+    {
+        "input": "leading edge",
+        "label": "o_skill"
+    },
+    {
+        "input": "pursuit",
+        "label": "o_skill"
+    },
+    {
+        "input": "tactical results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Storm",
+        "label": "t_skill"
+    },
+    {
+        "input": "Splunk APM",
+        "label": "t_skill"
+    },
+    {
+        "input": "task delivery focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "achieving",
+        "label": "o_skill"
+    },
+    {
+        "input": "Zabbix",
+        "label": "t_skill"
+    },
+    {
+        "input": "Databricks",
+        "label": "t_skill"
+    },
+    {
+        "input": "project delivery goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "solutions tasks",
+        "label": "o_skill"
+    },
+    {
+        "input": "Hive",
+        "label": "t_skill"
+    },
+    {
+        "input": "result driven solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "creative",
+        "label": "o_skill"
+    },
+    {
+        "input": "action items",
+        "label": "o_skill"
+    },
+    {
+        "input": "new",
+        "label": "o_skill"
+    },
+    {
+        "input": "MQTT",
+        "label": "t_skill"
+    },
+    {
+        "input": "HTTP Headers",
+        "label": "t_skill"
+    },
+    {
+        "input": "Pentaho",
+        "label": "t_skill"
+    },
+    {
+        "input": "Instana",
+        "label": "t_skill"
+    },
+    {
+        "input": "Forensics Analysis",
+        "label": "t_skill"
+    },
+    {
+        "input": "Expo",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal results clarification",
+        "label": "o_skill"
+    },
+    {
+        "input": "Jasmine",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions improvement",
+        "label": "o_skill"
+    },
+    {
+        "input": "Patch Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution execution focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem solver",
+        "label": "o_skill"
+    },
+    {
+        "input": "Redis",
+        "label": "t_skill"
+    },
+    {
+        "input": "X.509 Certificates",
+        "label": "t_skill"
+    },
+    {
+        "input": "multiple",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ansible Tower",
+        "label": "t_skill"
+    },
+    {
+        "input": "cooperation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Secure Email",
+        "label": "t_skill"
+    },
+    {
+        "input": "Netcat",
+        "label": "t_skill"
+    },
+    {
+        "input": "Amazon EMR",
+        "label": "t_skill"
+    },
+    {
+        "input": "GraphQL",
+        "label": "t_skill"
+    },
+    {
+        "input": "Security Auditing",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified delivery results",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks target driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "mobile",
+        "label": "o_skill"
+    },
+    {
+        "input": "SNMP",
+        "label": "t_skill"
+    },
+    {
+        "input": "Helm",
+        "label": "t_skill"
+    },
+    {
+        "input": "customer success",
+        "label": "o_skill"
+    },
+    {
+        "input": "team collaboration",
+        "label": "o_skill"
+    },
+    {
+        "input": "SSL Labs",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal setting",
+        "label": "o_skill"
+    },
+    {
+        "input": "develop action",
+        "label": "o_skill"
+    },
+    {
+        "input": "engage",
+        "label": "o_skill"
+    },
+    {
+        "input": "success",
+        "label": "o_skill"
+    },
+    {
+        "input": "timely",
+        "label": "o_skill"
+    },
+    {
+        "input": "result driven execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal clarification",
+        "label": "o_skill"
+    },
+    {
+        "input": "contributions oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Network Monitoring",
+        "label": "t_skill"
+    },
+    {
+        "input": "process",
+        "label": "o_skill"
+    },
+    {
+        "input": "WebRTC",
+        "label": "t_skill"
+    },
+    {
+        "input": "Redlock (by Palo Alto Networks)",
+        "label": "t_skill"
+    },
+    {
+        "input": "SLA Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "project results delivered",
+        "label": "o_skill"
+    },
+    {
+        "input": "HIPAA Compliance",
+        "label": "t_skill"
+    },
+    {
+        "input": "result plan",
+        "label": "o_skill"
+    },
+    {
+        "input": "Threat Intelligence",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified delivery focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks execution driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure Sentinel",
+        "label": "t_skill"
+    },
+    {
+        "input": "Ethereum Smart Contracts",
+        "label": "t_skill"
+    },
+    {
+        "input": "Blockchain Governance",
+        "label": "t_skill"
+    },
+    {
+        "input": "Incident Response Planning",
+        "label": "t_skill"
+    },
+    {
+        "input": "leadership capabilities",
+        "label": "o_skill"
+    },
+    {
+        "input": "Big Data",
+        "label": "t_skill"
+    },
+    {
+        "input": "advancement focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "leadership results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Appium",
+        "label": "t_skill"
+    },
+    {
+        "input": "achieving solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "Serverless Framework",
+        "label": "t_skill"
+    },
+    {
+        "input": "task results oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Threat Modeling",
+        "label": "t_skill"
+    },
+    {
+        "input": "manager",
+        "label": "o_skill"
+    },
+    {
+        "input": "Integration Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "Malware Analysis",
+        "label": "t_skill"
+    },
+    {
+        "input": "consulting driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Prometheus",
+        "label": "t_skill"
+    },
+    {
+        "input": "Sentry",
+        "label": "t_skill"
+    },
+    {
+        "input": "team results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Naive Bayes",
+        "label": "t_skill"
+    },
+    {
+        "input": "compensation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Zero-Knowledge Proofs",
+        "label": "t_skill"
+    },
+    {
+        "input": "Suricata",
+        "label": "t_skill"
+    },
+    {
+        "input": "decisive",
+        "label": "o_skill"
+    },
+    {
+        "input": "SaltStack",
+        "label": "t_skill"
+    },
+    {
+        "input": "task delivery targeted",
+        "label": "o_skill"
+    },
+    {
+        "input": "group focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "leadership",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "established",
+        "label": "o_skill"
+    },
+    {
+        "input": "coaching",
+        "label": "o_skill"
+    },
+    {
+        "input": "communication",
+        "label": "o_skill"
+    },
+    {
+        "input": "Redshift Spectrum",
+        "label": "t_skill"
+    },
+    {
+        "input": "Data Encryption at Rest",
+        "label": "t_skill"
+    },
+    {
+        "input": "unit",
+        "label": "o_skill"
+    },
+    {
+        "input": "Vault",
+        "label": "t_skill"
+    },
+    {
+        "input": "Istio",
+        "label": "t_skill"
+    },
+    {
+        "input": "work goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "large",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal orientated steps",
+        "label": "o_skill"
+    },
+    {
+        "input": "Redshift",
+        "label": "t_skill"
+    },
+    {
+        "input": "Dataiku",
+        "label": "t_skill"
+    },
+    {
+        "input": "MQTT",
+        "label": "t_skill"
+    },
+    {
+        "input": "problem solver",
+        "label": "o_skill"
+    },
+    {
+        "input": "negotiation",
+        "label": "o_skill"
+    },
+    {
+        "input": "final output delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "project based",
+        "label": "o_skill"
+    },
+    {
+        "input": "methodical",
+        "label": "o_skill"
+    },
+    {
+        "input": "while",
+        "label": "o_skill"
+    },
+    {
+        "input": "goals driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution target oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Amazon RDS",
+        "label": "t_skill"
+    },
+    {
+        "input": "SSL VPN",
+        "label": "t_skill"
+    },
+    {
+        "input": "TestNG",
+        "label": "t_skill"
+    },
+    {
+        "input": "focused objectives",
+        "label": "o_skill"
+    },
+    {
+        "input": "plan perfection",
+        "label": "o_skill"
+    },
+    {
+        "input": "UI Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "Reverse Proxy",
+        "label": "t_skill"
+    },
+    {
+        "input": "TCPdump",
+        "label": "t_skill"
+    },
+    {
+        "input": "Data Masking",
+        "label": "t_skill"
+    },
+    {
+        "input": "Caffe",
+        "label": "t_skill"
+    },
+    {
+        "input": "Microservices Architecture",
+        "label": "t_skill"
+    },
+    {
+        "input": "Terraform",
+        "label": "t_skill"
+    },
+    {
+        "input": "direction",
+        "label": "o_skill"
+    },
+    {
+        "input": "Elastic Beanstalk",
+        "label": "t_skill"
+    },
+    {
+        "input": "action oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "HTTPS",
+        "label": "t_skill"
+    },
+    {
+        "input": "AWS Direct Connect",
+        "label": "t_skill"
+    },
+    {
+        "input": "accountability",
+        "label": "o_skill"
+    },
+    {
+        "input": "clear output",
+        "label": "o_skill"
+    },
+    {
+        "input": "TravisCI",
+        "label": "t_skill"
+    },
+    {
+        "input": "DynamoDB",
+        "label": "t_skill"
+    },
+    {
+        "input": "achieved results focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "analysis",
+        "label": "o_skill"
+    },
+    {
+        "input": "HBase",
+        "label": "t_skill"
+    },
+    {
+        "input": "Route 53",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kibana",
+        "label": "t_skill"
+    },
+    {
+        "input": "Oracle Integration Cloud",
+        "label": "t_skill"
+    },
+    {
+        "input": "with",
+        "label": "o_skill"
+    },
+    {
+        "input": "IPv6",
+        "label": "t_skill"
+    },
+    {
+        "input": "Microsoft Event Hubs",
+        "label": "t_skill"
+    },
+    {
+        "input": "Qualys",
+        "label": "t_skill"
+    },
+    {
+        "input": "Datadog",
+        "label": "t_skill"
+    },
+    {
+        "input": "KNIME",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution driven results orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure Kubernetes Service (AKS)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Scrum",
+        "label": "o_skill"
+    },
+    {
+        "input": "plan clarification",
+        "label": "o_skill"
+    },
+    {
+        "input": "Selenium",
+        "label": "t_skill"
+    },
+    {
+        "input": "BGP",
+        "label": "t_skill"
+    },
+    {
+        "input": "Fortinet",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kubernetes Operators",
+        "label": "t_skill"
+    },
+    {
+        "input": "Device Management for IoT",
+        "label": "t_skill"
+    },
+    {
+        "input": "PHP",
+        "label": "t_skill"
+    },
+    {
+        "input": "RabbitMQ",
+        "label": "t_skill"
+    },
+    {
+        "input": "relationship building",
+        "label": "o_skill"
+    },
+    {
+        "input": "Service Mesh",
+        "label": "t_skill"
+    },
+    {
+        "input": "problem clarification results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ensemble Learning",
+        "label": "t_skill"
+    },
+    {
+        "input": "Secure Socket Layer (SSL)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Robot Framework",
+        "label": "t_skill"
+    },
+    {
+        "input": "decisions",
+        "label": "o_skill"
+    },
+    {
+        "input": "be",
+        "label": "o_skill"
+    },
+    {
+        "input": "JavaScript",
+        "label": "t_skill"
+    },
+    {
+        "input": "mentoring",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem identification",
+        "label": "o_skill"
+    },
+    {
+        "input": "SPF",
+        "label": "t_skill"
+    },
+    {
+        "input": "final output target",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure Monitor",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kubernetes Operators",
+        "label": "t_skill"
+    },
+    {
+        "input": "Problem Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Multi-Factor Authentication (MFA)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Industrial Control Systems (ICS) Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "contribution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Service Catalog Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "skill development",
+        "label": "o_skill"
+    },
+    {
+        "input": "improve solution",
+        "label": "o_skill"
+    },
+    {
+        "input": "work completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "RPA (Robotic Process Automation)",
+        "label": "t_skill"
+    },
+    {
+        "input": "InfluxDB",
+        "label": "t_skill"
+    },
+    {
+        "input": "Redis Pub/Sub",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Functions",
+        "label": "t_skill"
+    },
+    {
+        "input": "stakeholders",
+        "label": "o_skill"
+    },
+    {
+        "input": "collaboration",
+        "label": "o_skill"
+    },
+    {
+        "input": "completing",
+        "label": "o_skill"
+    },
+    {
+        "input": "positive minded",
+        "label": "o_skill"
+    },
+    {
+        "input": "Boomi Integration",
+        "label": "t_skill"
+    },
+    {
+        "input": "CloudFront",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "Atomic Swaps",
+        "label": "t_skill"
+    },
+    {
+        "input": "ServiceNow",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "adjustment focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "WebSockets",
+        "label": "t_skill"
+    },
+    {
+        "input": "coordinator",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem identifying",
+        "label": "o_skill"
+    },
+    {
+        "input": "Redis Pub/Sub",
+        "label": "t_skill"
+    },
+    {
+        "input": "CloudWatch",
+        "label": "t_skill"
+    },
+    {
+        "input": "performance improvement",
+        "label": "o_skill"
+    },
+    {
+        "input": "issues",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal results oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "leading",
+        "label": "o_skill"
+    },
+    {
+        "input": "agility",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ransomware",
+        "label": "t_skill"
+    },
+    {
+        "input": "creative minds",
+        "label": "o_skill"
+    },
+    {
+        "input": "AI",
+        "label": "t_skill"
+    },
+    {
+        "input": "vSphere",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion strategy",
+        "label": "o_skill"
+    },
+    {
+        "input": "result focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ethereum",
+        "label": "t_skill"
+    },
+    {
+        "input": "idea driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Sharding in Blockchain",
+        "label": "t_skill"
+    },
+    {
+        "input": "iterate",
+        "label": "o_skill"
+    },
+    {
+        "input": "Java",
+        "label": "t_skill"
+    },
+    {
+        "input": "personal development",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure Monitor",
+        "label": "t_skill"
+    },
+    {
+        "input": "result driven improvement",
+        "label": "o_skill"
+    },
+    {
+        "input": "SQS",
+        "label": "t_skill"
+    },
+    {
+        "input": "counseling",
+        "label": "o_skill"
+    },
+    {
+        "input": "Automation Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution result plans",
+        "label": "o_skill"
+    },
+    {
+        "input": "lead",
+        "label": "o_skill"
+    },
+    {
+        "input": "agile",
+        "label": "o_skill"
+    },
+    {
+        "input": "tests",
+        "label": "o_skill"
+    },
+    {
+        "input": "Software Asset Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal results",
+        "label": "o_skill"
+    },
+    {
+        "input": "IPsec",
+        "label": "t_skill"
+    },
+    {
+        "input": "Fluentd",
+        "label": "t_skill"
+    },
+    {
+        "input": "timely results",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS CodePipeline",
+        "label": "t_skill"
+    },
+    {
+        "input": "MuleSoft Anypoint Studio",
+        "label": "t_skill"
+    },
+    {
+        "input": "positive thinking",
+        "label": "o_skill"
+    },
+    {
+        "input": "organization",
+        "label": "o_skill"
+    },
+    {
+        "input": "objectives focused results",
+        "label": "o_skill"
+    },
+    {
+        "input": "result focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "projects driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS SNS",
+        "label": "t_skill"
+    },
+    {
+        "input": "GitHub Actions",
+        "label": "t_skill"
+    },
+    {
+        "input": "Hyperledger Indy",
+        "label": "t_skill"
+    },
+    {
+        "input": "complete results",
+        "label": "o_skill"
+    },
+    {
+        "input": "VPN Configuration",
+        "label": "t_skill"
+    },
+    {
+        "input": "Data Loss Prevention (DLP)",
+        "label": "t_skill"
+    },
+    {
+        "input": "CMDB",
+        "label": "t_skill"
+    },
+    {
+        "input": "Theano",
+        "label": "t_skill"
+    },
+    {
+        "input": "adjustments driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Plotly",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Hangouts",
+        "label": "t_skill"
+    },
+    {
+        "input": "GitLab CI/CD",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion orientated goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "result oriented output",
+        "label": "o_skill"
+    },
+    {
+        "input": "DDoS Protection",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal results oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Airflow",
+        "label": "t_skill"
+    },
+    {
+        "input": "Appium",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion results delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "tactical execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Zero Trust Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "continuous",
+        "label": "o_skill"
+    },
+    {
+        "input": "constructive",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal driven results",
+        "label": "o_skill"
+    },
+    {
+        "input": "TDD",
+        "label": "o_skill"
+    },
+    {
+        "input": "Virtual Private Network (VPN)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Tenable.io",
+        "label": "t_skill"
+    },
+    {
+        "input": "Remedy ITSM",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion orientated results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Security Token Offerings (STOs)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Keras",
+        "label": "t_skill"
+    },
+    {
+        "input": "Talend",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache Ignite",
+        "label": "t_skill"
+    },
+    {
+        "input": "ArgoCD",
+        "label": "t_skill"
+    },
+    {
+        "input": "SaltStack Enterprise",
+        "label": "t_skill"
+    },
+    {
+        "input": "recognition",
+        "label": "o_skill"
+    },
+    {
+        "input": "motivate",
+        "label": "o_skill"
+    },
+    {
+        "input": "Elasticsearch",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Virtual Machines",
+        "label": "t_skill"
+    },
+    {
+        "input": "Splunk Enterprise Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "Truffle",
+        "label": "t_skill"
+    },
+    {
+        "input": "cloud",
+        "label": "o_skill"
+    },
+    {
+        "input": "Recurrent Neural Networks",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kubernetes Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "comfortable",
+        "label": "o_skill"
+    },
+    {
+        "input": "HiveQL",
+        "label": "t_skill"
+    },
+    {
+        "input": "final result achievement",
+        "label": "o_skill"
+    },
+    {
+        "input": "Redis",
+        "label": "t_skill"
+    },
+    {
+        "input": "problem finished",
+        "label": "o_skill"
+    },
+    {
+        "input": "Endpoint Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "John the Ripper",
+        "label": "t_skill"
+    },
+    {
+        "input": "SNS",
+        "label": "t_skill"
+    },
+    {
+        "input": "Go",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution management",
+        "label": "o_skill"
+    },
+    {
+        "input": "method focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "Vulnerability Scanners",
+        "label": "t_skill"
+    },
+    {
+        "input": "milestones",
+        "label": "o_skill"
+    },
+    {
+        "input": "RESTful APIs",
+        "label": "t_skill"
+    },
+    {
+        "input": "client response",
+        "label": "o_skill"
+    },
+    {
+        "input": "Good",
+        "label": "o_skill"
+    },
+    {
+        "input": "Site-to-Site VPN",
+        "label": "t_skill"
+    },
+    {
+        "input": "collaborator",
+        "label": "o_skill"
+    },
+    {
+        "input": "adjustment steps",
+        "label": "o_skill"
+    },
+    {
+        "input": "Amazon CloudWatch APM",
+        "label": "t_skill"
+    },
+    {
+        "input": "transparency",
+        "label": "o_skill"
+    },
+    {
+        "input": "final results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "promote",
+        "label": "o_skill"
+    },
+    {
+        "input": "task oriented delivery results",
+        "label": "o_skill"
+    },
+    {
+        "input": "task completion driven results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Mercurial",
+        "label": "t_skill"
+    },
+    {
+        "input": "environment",
+        "label": "o_skill"
+    },
+    {
+        "input": "GraphQL",
+        "label": "t_skill"
+    },
+    {
+        "input": "New Relic",
+        "label": "t_skill"
+    },
+    {
+        "input": "result oriented approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "Zipkin",
+        "label": "t_skill"
+    },
+    {
+        "input": "Skaffold",
+        "label": "t_skill"
+    },
+    {
+        "input": "coordinator",
+        "label": "o_skill"
+    },
+    {
+        "input": "for",
+        "label": "o_skill"
+    },
+    {
+        "input": "team player",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google Cloud Run",
+        "label": "t_skill"
+    },
+    {
+        "input": "MLlib",
+        "label": "t_skill"
+    },
+    {
+        "input": "a",
+        "label": "o_skill"
+    },
+    {
+        "input": "project results",
+        "label": "o_skill"
+    },
+    {
+        "input": "ClickHouse",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "task completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "process results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Docker Swarm",
+        "label": "t_skill"
+    },
+    {
+        "input": "Fluentd",
+        "label": "t_skill"
+    },
+    {
+        "input": "problem solving focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Blockchain Oracles",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cypress",
+        "label": "t_skill"
+    },
+    {
+        "input": "innovation driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Zero-Day Exploits",
+        "label": "t_skill"
+    },
+    {
+        "input": "Swift",
+        "label": "t_skill"
+    },
+    {
+        "input": "Decentralized Exchanges (DEX)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Integromat",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure",
+        "label": "t_skill"
+    },
+    {
+        "input": "Blockchain-as-a-Service (BaaS)",
+        "label": "t_skill"
+    },
+    {
+        "input": "HTML",
+        "label": "t_skill"
+    },
+    {
+        "input": "Oracle Database",
+        "label": "t_skill"
+    },
+    {
+        "input": "LoadRunner",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks focus driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Datadog",
+        "label": "t_skill"
+    },
+    {
+        "input": "Network Segmentation",
+        "label": "t_skill"
+    },
+    {
+        "input": "Salesforce",
+        "label": "t_skill"
+    },
+    {
+        "input": "company wide",
+        "label": "o_skill"
+    },
+    {
+        "input": "Service Monitoring",
+        "label": "t_skill"
+    },
+    {
+        "input": "efficient outcome",
+        "label": "o_skill"
+    },
+    {
+        "input": "Samanage",
+        "label": "t_skill"
+    },
+    {
+        "input": "OAuth 2.0 Scopes",
+        "label": "t_skill"
+    },
+    {
+        "input": "Postman",
+        "label": "t_skill"
+    },
+    {
+        "input": "Splunk",
+        "label": "t_skill"
+    },
+    {
+        "input": "as",
+        "label": "o_skill"
+    },
+    {
+        "input": "evidence driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "OpenShift",
+        "label": "t_skill"
+    },
+    {
+        "input": "project target oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem clarification",
+        "label": "o_skill"
+    },
+    {
+        "input": "VMware",
+        "label": "t_skill"
+    },
+    {
+        "input": "problem solving results",
+        "label": "o_skill"
+    },
+    {
+        "input": "approach tasks",
+        "label": "o_skill"
+    },
+    {
+        "input": "ITIL",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google Cloud Functions",
+        "label": "t_skill"
+    },
+    {
+        "input": "project completion focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution results targeted",
+        "label": "o_skill"
+    },
+    {
+        "input": "work process",
+        "label": "o_skill"
+    },
+    {
+        "input": "fostering",
+        "label": "o_skill"
+    },
+    {
+        "input": "Gulp",
+        "label": "t_skill"
+    },
+    {
+        "input": "NoSQL",
+        "label": "t_skill"
+    },
+    {
+        "input": "Power Automate",
+        "label": "t_skill"
+    },
+    {
+        "input": "individual",
+        "label": "o_skill"
+    },
+    {
+        "input": "improvement",
+        "label": "o_skill"
+    },
+    {
+        "input": "training",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal driven solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Blockchain Analytics",
+        "label": "t_skill"
+    },
+    {
+        "input": "Security Operations Center (SOC)",
+        "label": "t_skill"
+    },
+    {
+        "input": "impactful",
+        "label": "o_skill"
+    },
+    {
+        "input": "presentation",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "CI/CD Pipeline",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution delivery targeted focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Data Lake",
+        "label": "t_skill"
+    },
+    {
+        "input": "meetings",
+        "label": "o_skill"
+    },
+    {
+        "input": "Postman (API Testing)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Hydra",
+        "label": "t_skill"
+    },
+    {
+        "input": "focus solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "team execution results",
+        "label": "o_skill"
+    },
+    {
+        "input": "solutions oriented teamwork",
+        "label": "o_skill"
+    },
+    {
+        "input": "Yield Farming",
+        "label": "t_skill"
+    },
+    {
+        "input": "GitOps",
+        "label": "t_skill"
+    },
+    {
+        "input": "Security Code Reviews",
+        "label": "t_skill"
+    },
+    {
+        "input": "workplace performance",
+        "label": "o_skill"
+    },
+    {
+        "input": "NetFlow",
+        "label": "t_skill"
+    },
+    {
+        "input": "Metasploit",
+        "label": "t_skill"
+    },
+    {
+        "input": "effective results execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ambassador API Gateway",
+        "label": "t_skill"
+    },
+    {
+        "input": "SOC 2",
+        "label": "t_skill"
+    },
+    {
+        "input": "needs",
+        "label": "o_skill"
+    },
+    {
+        "input": "Fabric8",
+        "label": "t_skill"
+    },
+    {
+        "input": "feedback driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal focused delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "results oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Transport Layer Security (TLS)",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion focused task",
+        "label": "o_skill"
+    },
+    {
+        "input": "result oriented teamwork",
+        "label": "o_skill"
+    },
+    {
+        "input": "Incident Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "future direction",
+        "label": "o_skill"
+    },
+    {
+        "input": "Jest",
+        "label": "t_skill"
+    },
+    {
+        "input": "result based delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal driven output",
+        "label": "o_skill"
+    },
+    {
+        "input": "result focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "LDAP (Lightweight Directory Access Protocol)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cloudflare",
+        "label": "t_skill"
+    },
+    {
+        "input": "our",
+        "label": "o_skill"
+    },
+    {
+        "input": "positive results",
+        "label": "o_skill"
+    },
+    {
+        "input": "clear communication",
+        "label": "o_skill"
+    },
+    {
+        "input": "adaptable action",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal achieved execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Swagger",
+        "label": "t_skill"
+    },
+    {
+        "input": "Sumo Logic",
+        "label": "t_skill"
+    },
+    {
+        "input": "DeFi Protocols",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Key Vault",
+        "label": "t_skill"
+    },
+    {
+        "input": "Traefik",
+        "label": "t_skill"
+    },
+    {
+        "input": "Functional Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions orientated",
+        "label": "o_skill"
+    },
+    {
+        "input": "Compliance Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Druid",
+        "label": "t_skill"
+    },
+    {
+        "input": "challenge",
+        "label": "o_skill"
+    },
+    {
+        "input": "Vulnerability Scanning",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal orientated execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "interpersonal",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS KMS (Key Management Service)",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion results focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "able",
+        "label": "o_skill"
+    },
+    {
+        "input": "meeting",
+        "label": "o_skill"
+    },
+    {
+        "input": "Distributed Ledger Technology (DLT)",
+        "label": "t_skill"
+    },
+    {
+        "input": "simplify",
+        "label": "o_skill"
+    },
+    {
+        "input": "delivery impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "Jira",
+        "label": "t_skill"
+    },
+    {
+        "input": "objective focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion oriented strategy",
+        "label": "o_skill"
+    },
+    {
+        "input": "structured approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "progress achievement",
+        "label": "o_skill"
+    },
+    {
+        "input": "Bitbucket",
+        "label": "t_skill"
+    },
+    {
+        "input": "priority setting",
+        "label": "o_skill"
+    },
+    {
+        "input": "Role-Based Authentication",
+        "label": "t_skill"
+    },
+    {
+        "input": "AWS EC2",
+        "label": "t_skill"
+    },
+    {
+        "input": "effective delivery output",
+        "label": "o_skill"
+    },
+    {
+        "input": "focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Model Monitoring",
+        "label": "t_skill"
+    },
+    {
+        "input": "interviews",
+        "label": "o_skill"
+    },
+    {
+        "input": "calibration",
+        "label": "o_skill"
+    },
+    {
+        "input": "applications",
+        "label": "o_skill"
+    },
+    {
+        "input": "delivery achievement",
+        "label": "o_skill"
+    },
+    {
+        "input": "DNS",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache JMeter",
+        "label": "t_skill"
+    },
+    {
+        "input": "deliverables",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure Front Door",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks target results",
+        "label": "o_skill"
+    },
+    {
+        "input": "UiPath",
+        "label": "t_skill"
+    },
+    {
+        "input": "Palo Alto Networks",
+        "label": "t_skill"
+    },
+    {
+        "input": "success driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "PostgreSQL",
+        "label": "t_skill"
+    },
+    {
+        "input": "expectation",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks delivered",
+        "label": "o_skill"
+    },
+    {
+        "input": "Terraform",
+        "label": "t_skill"
+    },
+    {
+        "input": "clearly expressed",
+        "label": "o_skill"
+    },
+    {
+        "input": "tools",
+        "label": "o_skill"
+    },
+    {
+        "input": "leadership goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "results driven objectives",
+        "label": "o_skill"
+    },
+    {
+        "input": "approach results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "results driven approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "driving",
+        "label": "o_skill"
+    },
+    {
+        "input": "H2O.ai",
+        "label": "t_skill"
+    },
+    {
+        "input": "DMARC",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution output",
+        "label": "o_skill"
+    },
+    {
+        "input": "Microsoft Teams",
+        "label": "t_skill"
+    },
+    {
+        "input": "preferred",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "Quantum Computing Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion oriented delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "method",
+        "label": "o_skill"
+    },
+    {
+        "input": "Zoom",
+        "label": "t_skill"
+    },
+    {
+        "input": "workplace",
+        "label": "o_skill"
+    },
+    {
+        "input": "Neural Networks",
+        "label": "t_skill"
+    },
+    {
+        "input": "Security Assertion Markup Language (SAML)",
+        "label": "t_skill"
+    },
+    {
+        "input": ".NET",
+        "label": "t_skill"
+    },
+    {
+        "input": "MariaDB",
+        "label": "t_skill"
+    },
+    {
+        "input": "Nagios",
+        "label": "t_skill"
+    },
+    {
+        "input": "CircleCI",
+        "label": "t_skill"
+    },
+    {
+        "input": "essential",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution delivery targeted",
+        "label": "o_skill"
+    },
+    {
+        "input": "Container Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "written",
+        "label": "o_skill"
+    },
+    {
+        "input": "skills based",
+        "label": "o_skill"
+    },
+    {
+        "input": "promoting",
+        "label": "o_skill"
+    },
+    {
+        "input": "deliverable focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "Amazon SQS",
+        "label": "t_skill"
+    },
+    {
+        "input": "Pandas",
+        "label": "t_skill"
+    },
+    {
+        "input": "51% Attack",
+        "label": "t_skill"
+    },
+    {
+        "input": "Experience",
+        "label": "o_skill"
+    },
+    {
+        "input": "result driven approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "vision driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution implementation",
+        "label": "o_skill"
+    },
+    {
+        "input": "methods",
+        "label": "o_skill"
+    },
+    {
+        "input": "strategic completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal",
+        "label": "o_skill"
+    },
+    {
+        "input": "retention",
+        "label": "o_skill"
+    },
+    {
+        "input": "Amazon Route 53",
+        "label": "t_skill"
+    },
+    {
+        "input": "goals achieved",
+        "label": "o_skill"
+    },
+    {
+        "input": "resolution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Phishing",
+        "label": "t_skill"
+    },
+    {
+        "input": "A/B Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "result methodology",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion outcomes",
+        "label": "o_skill"
+    },
+    {
+        "input": "Chef",
+        "label": "t_skill"
+    },
+    {
+        "input": "performance driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion target results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Lambda",
+        "label": "t_skill"
+    },
+    {
+        "input": "continuous progress",
+        "label": "o_skill"
+    },
+    {
+        "input": "effective delivery results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure Security Center",
+        "label": "t_skill"
+    },
+    {
+        "input": "NGINX Ingress Controller",
+        "label": "t_skill"
+    },
+    {
+        "input": "IoT Protocols (MQTT, CoAP)",
+        "label": "t_skill"
+    },
+    {
+        "input": "successful output",
+        "label": "o_skill"
+    },
+    {
+        "input": "Must",
+        "label": "o_skill"
+    },
+    {
+        "input": "decision output",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cryptocurrency Exchanges",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution completion method",
+        "label": "o_skill"
+    },
+    {
+        "input": "WinAutomation",
+        "label": "t_skill"
+    },
+    {
+        "input": "Confidential Transactions",
+        "label": "t_skill"
+    },
+    {
+        "input": "GitLab Registry",
+        "label": "t_skill"
+    },
+    {
+        "input": "WebSockets",
+        "label": "t_skill"
+    },
+    {
+        "input": "strategic performance",
+        "label": "o_skill"
+    },
+    {
+        "input": "ManageEngine OpManager",
+        "label": "t_skill"
+    },
+    {
+        "input": "Firebase",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution driven plans",
+        "label": "o_skill"
+    },
+    {
+        "input": "Data Encryption",
+        "label": "t_skill"
+    },
+    {
+        "input": "Solidity Development",
+        "label": "t_skill"
+    },
+    {
+        "input": "management focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "decisions",
+        "label": "o_skill"
+    },
+    {
+        "input": "RabbitMQ",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks outcome",
+        "label": "o_skill"
+    },
+    {
+        "input": "Blockchain Interoperability Protocols",
+        "label": "t_skill"
+    },
+    {
+        "input": "problem resolution results",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution completion output",
+        "label": "o_skill"
+    },
+    {
+        "input": "Proof-of-Space",
+        "label": "t_skill"
+    },
+    {
+        "input": "cross disciplinary",
+        "label": "o_skill"
+    },
+    {
+        "input": "Decentralized Storage",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cloud Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "final result focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "Alert Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "adaptability",
+        "label": "o_skill"
+    },
+    {
+        "input": "contribute",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion driven objectives",
+        "label": "o_skill"
+    },
+    {
+        "input": "Docker Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "Hadoop",
+        "label": "t_skill"
+    },
+    {
+        "input": "result delivery plan",
+        "label": "o_skill"
+    },
+    {
+        "input": "IT Asset Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "and",
+        "label": "o_skill"
+    },
+    {
+        "input": "engagement",
+        "label": "o_skill"
+    },
+    {
+        "input": "transparency",
+        "label": "o_skill"
+    },
+    {
+        "input": "focus driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Neo4j",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Cloud Pub/Sub",
+        "label": "t_skill"
+    },
+    {
+        "input": "Linear Regression",
+        "label": "t_skill"
+    },
+    {
+        "input": "final goal completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "strategize",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem completion results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Babel",
+        "label": "t_skill"
+    },
+    {
+        "input": "Blockchain",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified task focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "mentoring driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Git",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "Nmap Scripting Engine (NSE)",
+        "label": "t_skill"
+    },
+    {
+        "input": "delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google Data Studio",
+        "label": "t_skill"
+    },
+    {
+        "input": "establishment",
+        "label": "o_skill"
+    },
+    {
+        "input": "assessment driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "clear focus results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Check Point Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "Selenium WebDriver",
+        "label": "t_skill"
+    },
+    {
+        "input": "project plan",
+        "label": "o_skill"
+    },
+    {
+        "input": "Wireless Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "Istio",
+        "label": "t_skill"
+    },
+    {
+        "input": "solving",
+        "label": "o_skill"
+    },
+    {
+        "input": "team focused deliverables",
+        "label": "o_skill"
+    },
+    {
+        "input": "advice",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution oriented task",
+        "label": "o_skill"
+    },
+    {
+        "input": "Software Composition Analysis (SCA)",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution delivery focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Load Balancers",
+        "label": "t_skill"
+    },
+    {
+        "input": "build up",
+        "label": "o_skill"
+    },
+    {
+        "input": "Spark",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kubernetes Dashboard",
+        "label": "t_skill"
+    },
+    {
+        "input": "client outcome",
+        "label": "o_skill"
+    },
+    {
+        "input": "objectivity",
+        "label": "o_skill"
+    },
+    {
+        "input": "FluxCD",
+        "label": "t_skill"
+    },
+    {
+        "input": "initiative",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloud Security Posture Management (CSPM)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Data Mining",
+        "label": "t_skill"
+    },
+    {
+        "input": "Express.js",
+        "label": "t_skill"
+    },
+    {
+        "input": "time",
+        "label": "o_skill"
+    },
+    {
+        "input": "think",
+        "label": "o_skill"
+    },
+    {
+        "input": "consistent",
+        "label": "o_skill"
+    },
+    {
+        "input": "efficiency driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "solutions delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "result driven task delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "IDS/IPS (Intrusion Detection/Prevention Systems)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Identity Federation",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Compute Engine",
+        "label": "t_skill"
+    },
+    {
+        "input": "progression results",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution deliverable focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google Kubernetes Engine (GKE)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cryptocurrency Forensics",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks action plans",
+        "label": "o_skill"
+    },
+    {
+        "input": "organization goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "plan focused results",
+        "label": "o_skill"
+    },
+    {
+        "input": "consistent outcome",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution focused results",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "IPFS (InterPlanetary File System)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Redis Pub/Sub",
+        "label": "t_skill"
+    },
+    {
+        "input": "Prometheus Operator",
+        "label": "t_skill"
+    },
+    {
+        "input": "Informatica PowerCenter",
+        "label": "t_skill"
+    },
+    {
+        "input": "manage",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified action targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google Pub/Sub",
+        "label": "t_skill"
+    },
+    {
+        "input": "Fastly",
+        "label": "t_skill"
+    },
+    {
+        "input": "advancing",
+        "label": "o_skill"
+    },
+    {
+        "input": "Virtual Robotics Process Automation",
+        "label": "t_skill"
+    },
+    {
+        "input": "final project results",
+        "label": "o_skill"
+    },
+    {
+        "input": "compliance",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks performance driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Grunt",
+        "label": "t_skill"
+    },
+    {
+        "input": "approach focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ethereum 2.0",
+        "label": "t_skill"
+    },
+    {
+        "input": "Sophos XG Firewall",
+        "label": "t_skill"
+    },
+    {
+        "input": "Penetration Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "Container Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "design thinking",
+        "label": "o_skill"
+    },
+    {
+        "input": "action focused execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Zigbee",
+        "label": "t_skill"
+    },
+    {
+        "input": "ASP.NET",
+        "label": "t_skill"
+    },
+    {
+        "input": "Airflow",
+        "label": "t_skill"
+    },
+    {
+        "input": "organization driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Application Layer Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "final results focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Palo Alto WildFire",
+        "label": "t_skill"
+    },
+    {
+        "input": "Reinforcement Learning",
+        "label": "t_skill"
+    },
+    {
+        "input": "plan delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "evaluation results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Kubernetes",
+        "label": "t_skill"
+    },
+    {
+        "input": "method enhancement",
+        "label": "o_skill"
+    },
+    {
+        "input": "task completion results",
+        "label": "o_skill"
+    },
+    {
+        "input": "feedback orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Role-Based Access Control (RBAC)",
+        "label": "t_skill"
+    },
+    {
+        "input": "take",
+        "label": "o_skill"
+    },
+    {
+        "input": "mentorship driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "professional",
+        "label": "o_skill"
+    },
+    {
+        "input": "critical path",
+        "label": "o_skill"
+    },
+    {
+        "input": "achievement deliverables",
+        "label": "o_skill"
+    },
+    {
+        "input": "Convolutional Neural Networks",
+        "label": "t_skill"
+    },
+    {
+        "input": "evaluation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Zero Trust Networking",
+        "label": "t_skill"
+    },
+    {
+        "input": "collaboration",
+        "label": "o_skill"
+    },
+    {
+        "input": "evaluations",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure Cost Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "individual focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "clients",
+        "label": "o_skill"
+    },
+    {
+        "input": "refined tasks",
+        "label": "o_skill"
+    },
+    {
+        "input": "benefits",
+        "label": "o_skill"
+    },
+    {
+        "input": "clearly defined",
+        "label": "o_skill"
+    },
+    {
+        "input": "feedback",
+        "label": "o_skill"
+    },
+    {
+        "input": "Infrastructure as Code (IaC)",
+        "label": "t_skill"
+    },
+    {
+        "input": "leadership driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "RESTful APIs",
+        "label": "t_skill"
+    },
+    {
+        "input": "AWS API Gateway",
+        "label": "t_skill"
+    },
+    {
+        "input": "Threat Intelligence Sharing",
+        "label": "t_skill"
+    },
+    {
+        "input": "DNS Spoofing",
+        "label": "t_skill"
+    },
+    {
+        "input": "result focused output target",
+        "label": "o_skill"
+    },
+    {
+        "input": "Dell Boomi AtomSphere",
+        "label": "t_skill"
+    },
+    {
+        "input": "Token Standards",
+        "label": "t_skill"
+    },
+    {
+        "input": "relationship driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "performance orientated goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "task based results",
+        "label": "o_skill"
+    },
+    {
+        "input": "projects",
+        "label": "o_skill"
+    },
+    {
+        "input": "Docker Hub",
+        "label": "t_skill"
+    },
+    {
+        "input": "results delivered",
+        "label": "o_skill"
+    },
+    {
+        "input": "working",
+        "label": "o_skill"
+    },
+    {
+        "input": "Kotlin",
+        "label": "t_skill"
+    },
+    {
+        "input": "focus output",
+        "label": "o_skill"
+    },
+    {
+        "input": "Zabbix",
+        "label": "t_skill"
+    },
+    {
+        "input": "vision",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS Lambda",
+        "label": "t_skill"
+    },
+    {
+        "input": "output solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "TypeScript",
+        "label": "t_skill"
+    },
+    {
+        "input": "Terraform Cloud",
+        "label": "t_skill"
+    },
+    {
+        "input": "achievements",
+        "label": "o_skill"
+    },
+    {
+        "input": "Policy-Based Access Control (PBAC)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Asana",
+        "label": "t_skill"
+    },
+    {
+        "input": "Git Workflow",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified solutions target",
+        "label": "o_skill"
+    },
+    {
+        "input": "Bitcoin",
+        "label": "t_skill"
+    },
+    {
+        "input": "R",
+        "label": "t_skill"
+    },
+    {
+        "input": "customer",
+        "label": "o_skill"
+    },
+    {
+        "input": "Databricks",
+        "label": "t_skill"
+    },
+    {
+        "input": "fast paced",
+        "label": "o_skill"
+    },
+    {
+        "input": "Proof-of-Stake",
+        "label": "t_skill"
+    },
+    {
+        "input": "IIS (Internet Information Services)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Docker",
+        "label": "t_skill"
+    },
+    {
+        "input": "CDN (Content Delivery Network)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Change Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Zoho Analytics",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cross-Chain Interoperability",
+        "label": "t_skill"
+    },
+    {
+        "input": "Elastic APM",
+        "label": "t_skill"
+    },
+    {
+        "input": "Nagios",
+        "label": "t_skill"
+    },
+    {
+        "input": "Amazon Athena",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions focused execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "project target",
+        "label": "o_skill"
+    },
+    {
+        "input": "approach driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Sysdig",
+        "label": "t_skill"
+    },
+    {
+        "input": "progression",
+        "label": "o_skill"
+    },
+    {
+        "input": "Amazon ECS",
+        "label": "t_skill"
+    },
+    {
+        "input": "task results execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "RPA (Robotic Process Automation)",
+        "label": "t_skill"
+    },
+    {
+        "input": "effective solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "strong",
+        "label": "o_skill"
+    },
+    {
+        "input": "solutions achieved",
+        "label": "o_skill"
+    },
+    {
+        "input": "OpenVAS",
+        "label": "t_skill"
+    },
+    {
+        "input": "upskill",
+        "label": "o_skill"
+    },
+    {
+        "input": "proven",
+        "label": "o_skill"
+    },
+    {
+        "input": "SQLite",
+        "label": "t_skill"
+    },
+    {
+        "input": "Jenkinsfile",
+        "label": "t_skill"
+    },
+    {
+        "input": "Vagrant",
+        "label": "t_skill"
+    },
+    {
+        "input": "Private Blockchains",
+        "label": "t_skill"
+    },
+    {
+        "input": "timely outputs",
+        "label": "o_skill"
+    },
+    {
+        "input": "resources",
+        "label": "o_skill"
+    },
+    {
+        "input": "attention",
+        "label": "o_skill"
+    },
+    {
+        "input": "calibration driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "accountability driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "MicroStrategy",
+        "label": "t_skill"
+    },
+    {
+        "input": "You",
+        "label": "o_skill"
+    },
+    {
+        "input": "directly",
+        "label": "o_skill"
+    },
+    {
+        "input": "Active Directory",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions based delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "Proof-of-Authority",
+        "label": "t_skill"
+    },
+    {
+        "input": "method achieving results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Angular",
+        "label": "t_skill"
+    },
+    {
+        "input": "Linkerd",
+        "label": "t_skill"
+    },
+    {
+        "input": "Istio",
+        "label": "t_skill"
+    },
+    {
+        "input": "practical solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "Network Automation",
+        "label": "t_skill"
+    },
+    {
+        "input": "RabbitMQ",
+        "label": "t_skill"
+    },
+    {
+        "input": "Docker Enterprise",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cloud Service Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Root Cause Analysis",
+        "label": "t_skill"
+    },
+    {
+        "input": "creative plans",
+        "label": "o_skill"
+    },
+    {
+        "input": "high impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "Two-Factor Authentication (2FA)",
+        "label": "t_skill"
+    },
+    {
+        "input": "collaborative approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "Travis CI",
+        "label": "t_skill"
+    },
+    {
+        "input": "result plans",
+        "label": "o_skill"
+    },
+    {
+        "input": "CircleCI",
+        "label": "t_skill"
+    },
+    {
+        "input": "SAP HANA",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "features",
+        "label": "o_skill"
+    },
+    {
+        "input": "Metamask",
+        "label": "t_skill"
+    },
+    {
+        "input": "capable",
+        "label": "o_skill"
+    },
+    {
+        "input": "leadership oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Snowflake",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "action orientated",
+        "label": "o_skill"
+    },
+    {
+        "input": "performance execution results",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem resolution",
+        "label": "o_skill"
+    },
+    {
+        "input": "IT Governance",
+        "label": "t_skill"
+    },
+    {
+        "input": "cooperation driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "independently",
+        "label": "o_skill"
+    },
+    {
+        "input": "Test Automation",
+        "label": "t_skill"
+    },
+    {
+        "input": "action facilitated",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache NiFi",
+        "label": "t_skill"
+    },
+    {
+        "input": "version",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution target oriented results",
+        "label": "o_skill"
+    },
+    {
+        "input": "PostgreSQL",
+        "label": "t_skill"
+    },
+    {
+        "input": "tactics",
+        "label": "o_skill"
+    },
+    {
+        "input": "Data Pipeline",
+        "label": "t_skill"
+    },
+    {
+        "input": "objective result",
+        "label": "o_skill"
+    },
+    {
+        "input": "adjustment strategy",
+        "label": "o_skill"
+    },
+    {
+        "input": "developing",
+        "label": "o_skill"
+    },
+    {
+        "input": "PenTest",
+        "label": "t_skill"
+    },
+    {
+        "input": "Python",
+        "label": "t_skill"
+    },
+    {
+        "input": "Chef Automate",
+        "label": "t_skill"
+    },
+    {
+        "input": "Talend",
+        "label": "t_skill"
+    },
+    {
+        "input": "IAM (Identity and Access Management)",
+        "label": "t_skill"
+    },
+    {
+        "input": "R3 Corda",
+        "label": "t_skill"
+    },
+    {
+        "input": "Tokenized Assets",
+        "label": "t_skill"
+    },
+    {
+        "input": "Packager",
+        "label": "t_skill"
+    },
+    {
+        "input": "Tableau Prep",
+        "label": "t_skill"
+    },
+    {
+        "input": "Ettercap",
+        "label": "t_skill"
+    },
+    {
+        "input": "tactical deliverables",
+        "label": "o_skill"
+    },
+    {
+        "input": "WPA2, WPA3",
+        "label": "t_skill"
+    },
+    {
+        "input": "Lightning Network",
+        "label": "t_skill"
+    },
+    {
+        "input": "development",
+        "label": "o_skill"
+    },
+    {
+        "input": "Sandboxing",
+        "label": "t_skill"
+    },
+    {
+        "input": "BigQuery",
+        "label": "t_skill"
+    },
+    {
+        "input": "OpenVAS",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kubernetes Pod Security Policies",
+        "label": "t_skill"
+    },
+    {
+        "input": "team ownership",
+        "label": "o_skill"
+    },
+    {
+        "input": "Distributed Systems",
+        "label": "t_skill"
+    },
+    {
+        "input": "Application Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Logic Apps",
+        "label": "t_skill"
+    },
+    {
+        "input": "output execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "result based solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "feedback driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Kafka Streams",
+        "label": "t_skill"
+    },
+    {
+        "input": "TestNG",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cherwell ITSM",
+        "label": "t_skill"
+    },
+    {
+        "input": "Firewall Configuration",
+        "label": "t_skill"
+    },
+    {
+        "input": "RStudio",
+        "label": "t_skill"
+    },
+    {
+        "input": "Loggly",
+        "label": "t_skill"
+    },
+    {
+        "input": "Terraform",
+        "label": "t_skill"
+    },
+    {
+        "input": "NFT (Non-Fungible Tokens)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Mobile Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "Zabbix",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified steps",
+        "label": "o_skill"
+    },
+    {
+        "input": "result delivery focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal completion achieved",
+        "label": "o_skill"
+    },
+    {
+        "input": "Nginx",
+        "label": "t_skill"
+    },
+    {
+        "input": "branding",
+        "label": "o_skill"
+    },
+    {
+        "input": "PyTorch",
+        "label": "t_skill"
+    },
+    {
+        "input": "maintaining",
+        "label": "o_skill"
+    },
+    {
+        "input": "process driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "evaluation oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "OpenCV",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "must",
+        "label": "o_skill"
+    },
+    {
+        "input": "QlikView",
+        "label": "t_skill"
+    },
+    {
+        "input": "performance based execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "SaltStack",
+        "label": "t_skill"
+    },
+    {
+        "input": "assistance",
+        "label": "o_skill"
+    },
+    {
+        "input": "tactical",
+        "label": "o_skill"
+    },
+    {
+        "input": "SOAP Web Services",
+        "label": "t_skill"
+    },
+    {
+        "input": "MySQL Workbench",
+        "label": "t_skill"
+    },
+    {
+        "input": "AWS Fargate",
+        "label": "t_skill"
+    },
+    {
+        "input": "EventBridge",
+        "label": "t_skill"
+    },
+    {
+        "input": "Bitbucket",
+        "label": "t_skill"
+    },
+    {
+        "input": "success path",
+        "label": "o_skill"
+    },
+    {
+        "input": "Sumo Logic",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Cloud KMS",
+        "label": "t_skill"
+    },
+    {
+        "input": "refinement oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ivanti Service Manager",
+        "label": "t_skill"
+    },
+    {
+        "input": "Monday.com",
+        "label": "t_skill"
+    },
+    {
+        "input": "ERC-1155 Tokens",
+        "label": "t_skill"
+    },
+    {
+        "input": "Git",
+        "label": "t_skill"
+    },
+    {
+        "input": "result action",
+        "label": "o_skill"
+    },
+    {
+        "input": "Node.js",
+        "label": "t_skill"
+    },
+    {
+        "input": "K-Means Clustering",
+        "label": "t_skill"
+    },
+    {
+        "input": "open minded",
+        "label": "o_skill"
+    },
+    {
+        "input": "React",
+        "label": "t_skill"
+    },
+    {
+        "input": "Hadoop HDFS",
+        "label": "t_skill"
+    },
+    {
+        "input": "actionable goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "for",
+        "label": "o_skill"
+    },
+    {
+        "input": "API Service Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "tactical steps",
+        "label": "o_skill"
+    },
+    {
+        "input": "ManageEngine ServiceDesk Plus",
+        "label": "t_skill"
+    },
+    {
+        "input": "meeting",
+        "label": "o_skill"
+    },
+    {
+        "input": "DDoS Protection",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Event Grid",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution focused task",
+        "label": "o_skill"
+    },
+    {
+        "input": "final output",
+        "label": "o_skill"
+    },
+    {
+        "input": "established performance",
+        "label": "o_skill"
+    },
+    {
+        "input": "GitLab CI/CD",
+        "label": "t_skill"
+    },
+    {
+        "input": "New Relic",
+        "label": "t_skill"
+    },
+    {
+        "input": "Hadoop HDFS",
+        "label": "t_skill"
+    },
+    {
+        "input": "consistency",
+        "label": "o_skill"
+    },
+    {
+        "input": "Slack",
+        "label": "t_skill"
+    },
+    {
+        "input": "while",
+        "label": "o_skill"
+    },
+    {
+        "input": "ownership driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "result driven execution methods",
+        "label": "o_skill"
+    },
+    {
+        "input": "timeline",
+        "label": "o_skill"
+    },
+    {
+        "input": "Solr",
+        "label": "t_skill"
+    },
+    {
+        "input": "approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "workplan",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Travis CI",
+        "label": "t_skill"
+    },
+    {
+        "input": "SQLite",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Synapse Analytics",
+        "label": "t_skill"
+    },
+    {
+        "input": "Freshservice",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal orientated tasks",
+        "label": "o_skill"
+    },
+    {
+        "input": "priorities",
+        "label": "o_skill"
+    },
+    {
+        "input": "final delivery results",
+        "label": "o_skill"
+    },
+    {
+        "input": "progression oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "achievement driven solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "plan adaptation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Flask",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified action plan",
+        "label": "o_skill"
+    },
+    {
+        "input": "result completion driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Logstash",
+        "label": "t_skill"
+    },
+    {
+        "input": "core",
+        "label": "o_skill"
+    },
+    {
+        "input": "timely action",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure DevOps",
+        "label": "t_skill"
+    },
+    {
+        "input": "Security Onion",
+        "label": "t_skill"
+    },
+    {
+        "input": "stakeholder driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Bootstrap",
+        "label": "t_skill"
+    },
+    {
+        "input": "HAProxy",
+        "label": "t_skill"
+    },
+    {
+        "input": "Elasticsearch",
+        "label": "t_skill"
+    },
+    {
+        "input": "DigitalOcean",
+        "label": "t_skill"
+    },
+    {
+        "input": "Log Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache Superset",
+        "label": "t_skill"
+    },
+    {
+        "input": "OAuth 2.0 Scopes",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cassandra",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache Zeppelin",
+        "label": "t_skill"
+    },
+    {
+        "input": "result focus delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "training orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "SolarWinds",
+        "label": "t_skill"
+    },
+    {
+        "input": "team results driven execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified output execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "project focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "foster",
+        "label": "o_skill"
+    },
+    {
+        "input": "final execution focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "result oriented execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "workload",
+        "label": "o_skill"
+    },
+    {
+        "input": "OpenID Connect",
+        "label": "t_skill"
+    },
+    {
+        "input": "Chai",
+        "label": "t_skill"
+    },
+    {
+        "input": "Time Series Analysis",
+        "label": "t_skill"
+    },
+    {
+        "input": "Ledger Hardware Wallet",
+        "label": "t_skill"
+    },
+    {
+        "input": "Jenkins Automation",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Application Insights",
+        "label": "t_skill"
+    },
+    {
+        "input": "SonarQube",
+        "label": "t_skill"
+    },
+    {
+        "input": "IBM App Connect",
+        "label": "t_skill"
+    },
+    {
+        "input": "Jenkins",
+        "label": "t_skill"
+    },
+    {
+        "input": "TestComplete",
+        "label": "t_skill"
+    },
+    {
+        "input": "Model Deployment",
+        "label": "t_skill"
+    },
+    {
+        "input": "Smart Home Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "result driven outcome",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal target oriented results",
+        "label": "o_skill"
+    },
+    {
+        "input": "efficiency",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution focus action",
+        "label": "o_skill"
+    },
+    {
+        "input": "Decentralized Finance (DeFi)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Decentralized Finance (DeFi)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Public Key Infrastructure (PKI)",
+        "label": "t_skill"
+    },
+    {
+        "input": "HBase",
+        "label": "t_skill"
+    },
+    {
+        "input": "Identity Federation",
+        "label": "t_skill"
+    },
+    {
+        "input": "Feature Engineering",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution deliverable results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google Cloud Platform",
+        "label": "t_skill"
+    },
+    {
+        "input": "critical",
+        "label": "o_skill"
+    },
+    {
+        "input": "Secure Coding",
+        "label": "t_skill"
+    },
+    {
+        "input": "PCA (Principal Component Analysis)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Security Incident Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Automation Anywhere",
+        "label": "t_skill"
+    },
+    {
+        "input": "Ruxit (Dynatrace)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Alteryx",
+        "label": "t_skill"
+    },
+    {
+        "input": "refining",
+        "label": "o_skill"
+    },
+    {
+        "input": "Secrets Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Confluence",
+        "label": "t_skill"
+    },
+    {
+        "input": "JFrog Artifactory",
+        "label": "t_skill"
+    },
+    {
+        "input": "flexible working",
+        "label": "o_skill"
+    },
+    {
+        "input": "team interaction",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Hyper-V",
+        "label": "t_skill"
+    },
+    {
+        "input": "Nagios Core",
+        "label": "t_skill"
+    },
+    {
+        "input": "shared",
+        "label": "o_skill"
+    },
+    {
+        "input": "competencies",
+        "label": "o_skill"
+    },
+    {
+        "input": "Performance Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "Load Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "Datadog APM",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kong API Gateway",
+        "label": "t_skill"
+    },
+    {
+        "input": "Static Application Security Testing (SAST)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Teradata",
+        "label": "t_skill"
+    },
+    {
+        "input": "SQL Injection",
+        "label": "t_skill"
+    },
+    {
+        "input": "S3",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal oriented delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "task execution results",
+        "label": "o_skill"
+    },
+    {
+        "input": "analysis oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS Step Functions",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "reach",
+        "label": "o_skill"
+    },
+    {
+        "input": "Decision Trees",
+        "label": "t_skill"
+    },
+    {
+        "input": "design orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal setting execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Kafka Streams",
+        "label": "t_skill"
+    },
+    {
+        "input": "Graph Databases",
+        "label": "t_skill"
+    },
+    {
+        "input": "Event-Driven Architecture",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified approach results",
+        "label": "o_skill"
+    },
+    {
+        "input": "meet",
+        "label": "o_skill"
+    },
+    {
+        "input": "networking",
+        "label": "o_skill"
+    },
+    {
+        "input": "result target oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Puppet",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarify",
+        "label": "o_skill"
+    },
+    {
+        "input": "flexible",
+        "label": "o_skill"
+    },
+    {
+        "input": "Web3 Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Cloud Interconnect",
+        "label": "t_skill"
+    },
+    {
+        "input": "implementation results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Kafka",
+        "label": "t_skill"
+    },
+    {
+        "input": "Security Audits",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "LoadRunner",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Functions",
+        "label": "t_skill"
+    },
+    {
+        "input": "Single Sign-On (SSO)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Trello",
+        "label": "t_skill"
+    },
+    {
+        "input": "Talend Data Integration",
+        "label": "t_skill"
+    },
+    {
+        "input": "Zenoss",
+        "label": "t_skill"
+    },
+    {
+        "input": "File Integrity Monitoring",
+        "label": "t_skill"
+    },
+    {
+        "input": "IT Incident Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "SAML 2.0",
+        "label": "t_skill"
+    },
+    {
+        "input": "relationships",
+        "label": "o_skill"
+    },
+    {
+        "input": "meeting",
+        "label": "o_skill"
+    },
+    {
+        "input": "final delivery targeted",
+        "label": "o_skill"
+    },
+    {
+        "input": "result execution targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks delivery goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "plan results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks result focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "refined method",
+        "label": "o_skill"
+    },
+    {
+        "input": "Helm Charts",
+        "label": "t_skill"
+    },
+    {
+        "input": "leadership driven action",
+        "label": "o_skill"
+    },
+    {
+        "input": "result delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "result driven methods",
+        "label": "o_skill"
+    },
+    {
+        "input": "cross functional",
+        "label": "o_skill"
+    },
+    {
+        "input": "motivated",
+        "label": "o_skill"
+    },
+    {
+        "input": "workflow",
+        "label": "o_skill"
+    },
+    {
+        "input": "Exasol",
+        "label": "t_skill"
+    },
+    {
+        "input": "Random Forest",
+        "label": "t_skill"
+    },
+    {
+        "input": "adapted approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "plus",
+        "label": "o_skill"
+    },
+    {
+        "input": "method results",
+        "label": "o_skill"
+    },
+    {
+        "input": "BMC Helix ITSM",
+        "label": "t_skill"
+    },
+    {
+        "input": "GitHub Actions",
+        "label": "t_skill"
+    },
+    {
+        "input": "data",
+        "label": "o_skill"
+    },
+    {
+        "input": "Data Wrangling",
+        "label": "t_skill"
+    },
+    {
+        "input": "Self-Encryption Drives (SED)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Key Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Code Reviews",
+        "label": "t_skill"
+    },
+    {
+        "input": "consulting driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Immutable Infrastructure",
+        "label": "t_skill"
+    },
+    {
+        "input": "project focus results",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution execution results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Spark",
+        "label": "t_skill"
+    },
+    {
+        "input": "engagement driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "TLS/SSL",
+        "label": "t_skill"
+    },
+    {
+        "input": "result delivery oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "result oriented plans",
+        "label": "o_skill"
+    },
+    {
+        "input": "implementation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Solidity",
+        "label": "t_skill"
+    },
+    {
+        "input": "JUnit",
+        "label": "t_skill"
+    },
+    {
+        "input": "ActiveMQ",
+        "label": "t_skill"
+    },
+    {
+        "input": "RBAC (Role-Based Access Control)",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions delivery results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Hyperledger",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kibana",
+        "label": "t_skill"
+    },
+    {
+        "input": "Jenkins",
+        "label": "t_skill"
+    },
+    {
+        "input": "timely execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "clear results",
+        "label": "o_skill"
+    },
+    {
+        "input": "approach driven results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Web Application Firewall (WAF)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Load Balancer",
+        "label": "t_skill"
+    },
+    {
+        "input": "Smart Contract Platforms",
+        "label": "t_skill"
+    },
+    {
+        "input": "project results orientated",
+        "label": "o_skill"
+    },
+    {
+        "input": "effective",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS SQS",
+        "label": "t_skill"
+    },
+    {
+        "input": "SciPy",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal completion results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Graylog Security Analytics",
+        "label": "t_skill"
+    },
+    {
+        "input": "GitHub",
+        "label": "t_skill"
+    },
+    {
+        "input": "Burp Suite",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks results",
+        "label": "o_skill"
+    },
+    {
+        "input": "advancement",
+        "label": "o_skill"
+    },
+    {
+        "input": "Data Classification",
+        "label": "t_skill"
+    },
+    {
+        "input": "Airbrake",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Cloud DNS",
+        "label": "t_skill"
+    },
+    {
+        "input": "team result focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google Cloud CDN",
+        "label": "t_skill"
+    },
+    {
+        "input": "Support Vector Machines",
+        "label": "t_skill"
+    },
+    {
+        "input": "project oriented deliverables",
+        "label": "o_skill"
+    },
+    {
+        "input": "experience",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS SQS",
+        "label": "t_skill"
+    },
+    {
+        "input": "Smart Contracts Auditing",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions driven results",
+        "label": "o_skill"
+    },
+    {
+        "input": "to",
+        "label": "o_skill"
+    },
+    {
+        "input": "detail",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal pursuit",
+        "label": "o_skill"
+    },
+    {
+        "input": "Seaborn",
+        "label": "t_skill"
+    },
+    {
+        "input": "ServiceNow ITSM",
+        "label": "t_skill"
+    },
+    {
+        "input": "tactical impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "OWASP ZAP",
+        "label": "t_skill"
+    },
+    {
+        "input": "efficiency goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "Laravel",
+        "label": "t_skill"
+    },
+    {
+        "input": "evaluative",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "BGP",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Certificate Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Naive Bayes",
+        "label": "t_skill"
+    },
+    {
+        "input": "Domo",
+        "label": "t_skill"
+    },
+    {
+        "input": "highly",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks completed",
+        "label": "o_skill"
+    },
+    {
+        "input": "Internet of Things (IoT)",
+        "label": "t_skill"
+    },
+    {
+        "input": "result focused team",
+        "label": "o_skill"
+    },
+    {
+        "input": "development driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Bug Bounty Programs",
+        "label": "t_skill"
+    },
+    {
+        "input": "Redash",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kubernetes Helm",
+        "label": "t_skill"
+    },
+    {
+        "input": "IoT Data Privacy",
+        "label": "t_skill"
+    },
+    {
+        "input": "GitLab",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Cloud Functions",
+        "label": "t_skill"
+    },
+    {
+        "input": "leadership results",
+        "label": "o_skill"
+    },
+    {
+        "input": "VPN",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified target focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "Elasticsearch",
+        "label": "t_skill"
+    },
+    {
+        "input": "execution based",
+        "label": "o_skill"
+    },
+    {
+        "input": "engaged",
+        "label": "o_skill"
+    },
+    {
+        "input": "CUDA",
+        "label": "t_skill"
+    },
+    {
+        "input": "Zapier",
+        "label": "t_skill"
+    },
+    {
+        "input": "support",
+        "label": "o_skill"
+    },
+    {
+        "input": "Matplotlib",
+        "label": "t_skill"
+    },
+    {
+        "input": "customer oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloud-native Firewall",
+        "label": "t_skill"
+    },
+    {
+        "input": "WebSockets Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "PCI-DSS Compliance",
+        "label": "t_skill"
+    },
+    {
+        "input": "impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "teamwork",
+        "label": "o_skill"
+    },
+    {
+        "input": "MongoDB Atlas",
+        "label": "t_skill"
+    },
+    {
+        "input": "Bamboo",
+        "label": "t_skill"
+    },
+    {
+        "input": "Aircrack-ng",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "implementation results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Kubernetes",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cross-Site Request Forgery (CSRF)",
+        "label": "t_skill"
+    },
+    {
+        "input": "determination",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "Vault (HashiCorp)",
+        "label": "t_skill"
+    },
+    {
+        "input": "effective results focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "final results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Kafka",
+        "label": "t_skill"
+    },
+    {
+        "input": "consulting",
+        "label": "o_skill"
+    },
+    {
+        "input": "refinement",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem solving delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "result focused approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "Kismet",
+        "label": "t_skill"
+    },
+    {
+        "input": "identifying",
+        "label": "o_skill"
+    },
+    {
+        "input": "CloudWatch Logs",
+        "label": "t_skill"
+    },
+    {
+        "input": "FTP",
+        "label": "t_skill"
+    },
+    {
+        "input": "comprehensive",
+        "label": "o_skill"
+    },
+    {
+        "input": "Informatica",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified method results",
+        "label": "o_skill"
+    },
+    {
+        "input": "client centric",
+        "label": "o_skill"
+    },
+    {
+        "input": "task execution deliverables",
+        "label": "o_skill"
+    },
+    {
+        "input": "Antivirus Software",
+        "label": "t_skill"
+    },
+    {
+        "input": "CircleCI Insights",
+        "label": "t_skill"
+    },
+    {
+        "input": "Networking",
+        "label": "t_skill"
+    },
+    {
+        "input": "proceed",
+        "label": "o_skill"
+    },
+    {
+        "input": "Unit Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "objectives",
+        "label": "o_skill"
+    },
+    {
+        "input": "Logz.io",
+        "label": "t_skill"
+    },
+    {
+        "input": "XGBoost",
+        "label": "t_skill"
+    },
+    {
+        "input": "team dynamics",
+        "label": "o_skill"
+    },
+    {
+        "input": "resource",
+        "label": "o_skill"
+    },
+    {
+        "input": "direction setting",
+        "label": "o_skill"
+    },
+    {
+        "input": "Configuration Drift Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "action target",
+        "label": "o_skill"
+    },
+    {
+        "input": "GANs (Generative Adversarial Networks)",
+        "label": "t_skill"
+    },
+    {
+        "input": "proceeding",
+        "label": "o_skill"
+    },
+    {
+        "input": "result target completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "enhance",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion oriented output",
+        "label": "o_skill"
+    },
+    {
+        "input": "leadership impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "team focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "CloudTrail",
+        "label": "t_skill"
+    },
+    {
+        "input": "Code Analysis Tools",
+        "label": "t_skill"
+    },
+    {
+        "input": "AWS Elastic Beanstalk",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution output focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "CloudWatch",
+        "label": "t_skill"
+    },
+    {
+        "input": "excellence",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google Cloud Monitoring",
+        "label": "t_skill"
+    },
+    {
+        "input": "ITIL Service Desk",
+        "label": "t_skill"
+    },
+    {
+        "input": "Amazon Athena",
+        "label": "t_skill"
+    },
+    {
+        "input": "deliver",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem outputs",
+        "label": "o_skill"
+    },
+    {
+        "input": "outputs driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS CloudTrail",
+        "label": "t_skill"
+    },
+    {
+        "input": "Chainlink",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kanban",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloud Access Security Broker (CASB)",
+        "label": "t_skill"
+    },
+    {
+        "input": "project focused output",
+        "label": "o_skill"
+    },
+    {
+        "input": "VirtualBox",
+        "label": "t_skill"
+    },
+    {
+        "input": "Nagios",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion focused action",
+        "label": "o_skill"
+    },
+    {
+        "input": "developing",
+        "label": "o_skill"
+    },
+    {
+        "input": "CloudFormation",
+        "label": "t_skill"
+    },
+    {
+        "input": "Consensus as a Service",
+        "label": "t_skill"
+    },
+    {
+        "input": "OpenFaaS",
+        "label": "t_skill"
+    },
+    {
+        "input": "Jenkins Pipelines",
+        "label": "t_skill"
+    },
+    {
+        "input": "Event-Driven Architecture",
+        "label": "t_skill"
+    },
+    {
+        "input": "BERT",
+        "label": "t_skill"
+    },
+    {
+        "input": "employee engagement",
+        "label": "o_skill"
+    },
+    {
+        "input": "task result orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks completion driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Jenkinsfile",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "team performance results",
+        "label": "o_skill"
+    },
+    {
+        "input": "PrestoDB",
+        "label": "t_skill"
+    },
+    {
+        "input": "culture",
+        "label": "o_skill"
+    },
+    {
+        "input": "Kibana",
+        "label": "t_skill"
+    },
+    {
+        "input": "team focus results",
+        "label": "o_skill"
+    },
+    {
+        "input": "iOS",
+        "label": "o_skill"
+    },
+    {
+        "input": "Public Blockchains",
+        "label": "t_skill"
+    },
+    {
+        "input": "Jira Service Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution completion results",
+        "label": "o_skill"
+    },
+    {
+        "input": "action result focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "SolarWinds Network Performance Monitor",
+        "label": "t_skill"
+    },
+    {
+        "input": "results target",
+        "label": "o_skill"
+    },
+    {
+        "input": "adjustments",
+        "label": "o_skill"
+    },
+    {
+        "input": "result focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "team execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "methodologies",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "quality assurance",
+        "label": "o_skill"
+    },
+    {
+        "input": "Citrix ADC",
+        "label": "t_skill"
+    },
+    {
+        "input": "Consul",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion results delivered",
+        "label": "o_skill"
+    },
+    {
+        "input": "troubleshoot",
+        "label": "o_skill"
+    },
+    {
+        "input": "delivery focused results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Docker Swarm",
+        "label": "t_skill"
+    },
+    {
+        "input": "finalized results",
+        "label": "o_skill"
+    },
+    {
+        "input": "effectiveness output",
+        "label": "o_skill"
+    },
+    {
+        "input": "IT Automation",
+        "label": "t_skill"
+    },
+    {
+        "input": "Selenium Grid",
+        "label": "t_skill"
+    },
+    {
+        "input": "skills set",
+        "label": "o_skill"
+    },
+    {
+        "input": "Algolia",
+        "label": "t_skill"
+    },
+    {
+        "input": "forward thinking",
+        "label": "o_skill"
+    },
+    {
+        "input": "Intrusion Detection Systems",
+        "label": "t_skill"
+    },
+    {
+        "input": "organizational impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "Public Key Cryptography",
+        "label": "t_skill"
+    },
+    {
+        "input": "Vagrant",
+        "label": "t_skill"
+    },
+    {
+        "input": "networking",
+        "label": "o_skill"
+    },
+    {
+        "input": "approach methodology",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal execution targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "Jenkins Pipelines",
+        "label": "t_skill"
+    },
+    {
+        "input": "Identity and Access Management (IAM)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kubernetes",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution execution driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "results execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "direction",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS Security Hub",
+        "label": "t_skill"
+    },
+    {
+        "input": "ERC-721 Tokens (NFTs)",
+        "label": "t_skill"
+    },
+    {
+        "input": "OpenStack",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure DNS",
+        "label": "t_skill"
+    },
+    {
+        "input": "SQLAlchemy",
+        "label": "t_skill"
+    },
+    {
+        "input": "communication",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloudera Data Science Workbench",
+        "label": "t_skill"
+    },
+    {
+        "input": "fast paced",
+        "label": "o_skill"
+    },
+    {
+        "input": "environment",
+        "label": "o_skill"
+    },
+    {
+        "input": "EC2",
+        "label": "t_skill"
+    },
+    {
+        "input": "Dell Boomi",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Service Bus",
+        "label": "t_skill"
+    },
+    {
+        "input": "result oriented task completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "easy going",
+        "label": "o_skill"
+    },
+    {
+        "input": "integrity",
+        "label": "o_skill"
+    },
+    {
+        "input": "manage",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS Inspector",
+        "label": "t_skill"
+    },
+    {
+        "input": "oversee",
+        "label": "o_skill"
+    },
+    {
+        "input": "final delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "result target orientations",
+        "label": "o_skill"
+    },
+    {
+        "input": "project solution",
+        "label": "o_skill"
+    },
+    {
+        "input": "knowledge sharing",
+        "label": "o_skill"
+    },
+    {
+        "input": "start",
+        "label": "o_skill"
+    },
+    {
+        "input": "Hyperparameter Tuning",
+        "label": "t_skill"
+    },
+    {
+        "input": "Blockchain Development",
+        "label": "t_skill"
+    },
+    {
+        "input": "Zookeeper",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified deliverables",
+        "label": "o_skill"
+    },
+    {
+        "input": "specialization",
+        "label": "o_skill"
+    },
+    {
+        "input": "Docker Compose",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Cloud Billing",
+        "label": "t_skill"
+    },
+    {
+        "input": "Terraform Modules",
+        "label": "t_skill"
+    },
+    {
+        "input": "future focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "IoT Communication Protocols",
+        "label": "t_skill"
+    },
+    {
+        "input": "ELT Pipelines",
+        "label": "t_skill"
+    },
+    {
+        "input": "DataRobot",
+        "label": "t_skill"
+    },
+    {
+        "input": "Datadog APM",
+        "label": "t_skill"
+    },
+    {
+        "input": "Bluetooth Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "performance goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "OAuth 2.0",
+        "label": "t_skill"
+    },
+    {
+        "input": "client interaction",
+        "label": "o_skill"
+    },
+    {
+        "input": "Snowflake",
+        "label": "t_skill"
+    },
+    {
+        "input": "Truffle Framework",
+        "label": "t_skill"
+    },
+    {
+        "input": "framework driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Parcel",
+        "label": "t_skill"
+    },
+    {
+        "input": "team completion results",
+        "label": "o_skill"
+    },
+    {
+        "input": "SD-WAN",
+        "label": "t_skill"
+    },
+    {
+        "input": "results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cryptocurrency Wallets (e.g., MetaMask, Coinbase)",
+        "label": "t_skill"
+    },
+    {
+        "input": "SonicWall",
+        "label": "t_skill"
+    },
+    {
+        "input": "MuleSoft",
+        "label": "t_skill"
+    },
+    {
+        "input": "Zendesk",
+        "label": "t_skill"
+    },
+    {
+        "input": "result action",
+        "label": "o_skill"
+    },
+    {
+        "input": "OpenTelemetry",
+        "label": "t_skill"
+    },
+    {
+        "input": "completing",
+        "label": "o_skill"
+    },
+    {
+        "input": "Secure Software Development Lifecycle (SDLC)",
+        "label": "t_skill"
+    },
+    {
+        "input": "continuous delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache HTTP Server",
+        "label": "t_skill"
+    },
+    {
+        "input": "Oracles",
+        "label": "t_skill"
+    },
+    {
+        "input": "contribution results",
+        "label": "o_skill"
+    },
+    {
+        "input": "action oriented results",
+        "label": "o_skill"
+    },
+    {
+        "input": "ELK Stack",
+        "label": "t_skill"
+    },
+    {
+        "input": "Ansible",
+        "label": "t_skill"
+    },
+    {
+        "input": "MQTT",
+        "label": "t_skill"
+    },
+    {
+        "input": "DKIM",
+        "label": "t_skill"
+    },
+    {
+        "input": "LightGBM",
+        "label": "t_skill"
+    },
+    {
+        "input": "result delivery driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution target driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "final task delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "Virtualization",
+        "label": "t_skill"
+    },
+    {
+        "input": "MapReduce",
+        "label": "t_skill"
+    },
+    {
+        "input": "effective execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "CrowdStrike Falcon",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache NiFi",
+        "label": "t_skill"
+    },
+    {
+        "input": "Prettier",
+        "label": "t_skill"
+    },
+    {
+        "input": "API Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "output driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS Lambda",
+        "label": "t_skill"
+    },
+    {
+        "input": "Scikit-learn",
+        "label": "t_skill"
+    },
+    {
+        "input": "CloudFormation",
+        "label": "t_skill"
+    },
+    {
+        "input": "JUnit",
+        "label": "t_skill"
+    },
+    {
+        "input": "Parallel Computing",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Cloud Pub/Sub",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache Beam",
+        "label": "t_skill"
+    },
+    {
+        "input": "result target driven delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "completed plan",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Pulsar",
+        "label": "t_skill"
+    },
+    {
+        "input": "Privacy Impact Assessment (PIA)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Tokenomics",
+        "label": "t_skill"
+    },
+    {
+        "input": "client facing",
+        "label": "o_skill"
+    },
+    {
+        "input": "CrowdStrike",
+        "label": "t_skill"
+    },
+    {
+        "input": "strategic results",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal setting results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Blockchain Governance",
+        "label": "t_skill"
+    },
+    {
+        "input": "action plan",
+        "label": "o_skill"
+    },
+    {
+        "input": "building",
+        "label": "o_skill"
+    },
+    {
+        "input": "VPS (Virtual Private Server)",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution results output",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cryptocurrency Mining",
+        "label": "t_skill"
+    },
+    {
+        "input": "adjustment oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "MapR",
+        "label": "t_skill"
+    },
+    {
+        "input": "Sidechain",
+        "label": "t_skill"
+    },
+    {
+        "input": "OAuth 2.0",
+        "label": "t_skill"
+    },
+    {
+        "input": "CI/CD Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "join",
+        "label": "o_skill"
+    },
+    {
+        "input": "solutions driven completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "create",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution based",
+        "label": "o_skill"
+    },
+    {
+        "input": "result orientated task",
+        "label": "o_skill"
+    },
+    {
+        "input": "work",
+        "label": "o_skill"
+    },
+    {
+        "input": "refine",
+        "label": "o_skill"
+    },
+    {
+        "input": "adaptive",
+        "label": "o_skill"
+    },
+    {
+        "input": "result orientated delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "GCP Pub/Sub",
+        "label": "t_skill"
+    },
+    {
+        "input": "plan focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "assessments",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks completion output",
+        "label": "o_skill"
+    },
+    {
+        "input": "Web3.js",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache Flink",
+        "label": "t_skill"
+    },
+    {
+        "input": "JWT Authentication",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified outcome",
+        "label": "o_skill"
+    },
+    {
+        "input": "AutomationEdge",
+        "label": "t_skill"
+    },
+    {
+        "input": "software",
+        "label": "o_skill"
+    },
+    {
+        "input": "New Relic",
+        "label": "t_skill"
+    },
+    {
+        "input": "flexible strategy",
+        "label": "o_skill"
+    },
+    {
+        "input": "explore",
+        "label": "o_skill"
+    },
+    {
+        "input": "development focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "counseling driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "solutions oriented task delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "Man-in-the-Middle (MITM) Attacks",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution oriented delivery results",
+        "label": "o_skill"
+    },
+    {
+        "input": "completion results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "result focused output driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "GDPR Compliance",
+        "label": "t_skill"
+    },
+    {
+        "input": "proactive",
+        "label": "o_skill"
+    },
+    {
+        "input": "Decentralized Identity",
+        "label": "t_skill"
+    },
+    {
+        "input": "existing",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution results focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "like",
+        "label": "o_skill"
+    },
+    {
+        "input": "platforms",
+        "label": "o_skill"
+    },
+    {
+        "input": "Blockchain Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "Honeycomb",
+        "label": "t_skill"
+    },
+    {
+        "input": "Container Orchestration",
+        "label": "t_skill"
+    },
+    {
+        "input": "planning driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cypress",
+        "label": "t_skill"
+    },
+    {
+        "input": "Big Data Processing",
+        "label": "t_skill"
+    },
+    {
+        "input": "Natural Language Processing",
+        "label": "t_skill"
+    },
+    {
+        "input": "initiative driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Permissioned Blockchains",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified results achieved",
+        "label": "o_skill"
+    },
+    {
+        "input": "Vue.js",
+        "label": "t_skill"
+    },
+    {
+        "input": "customer focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "excellent",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Fastly",
+        "label": "t_skill"
+    },
+    {
+        "input": "control",
+        "label": "o_skill"
+    },
+    {
+        "input": "advice driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Web Application Firewall (WAF)",
+        "label": "t_skill"
+    },
+    {
+        "input": "implementation focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "change adaptation",
+        "label": "o_skill"
+    },
+    {
+        "input": "CSS",
+        "label": "t_skill"
+    },
+    {
+        "input": "Docker Desktop",
+        "label": "t_skill"
+    },
+    {
+        "input": "Grafana",
+        "label": "t_skill"
+    },
+    {
+        "input": "performance results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks oriented plans",
+        "label": "o_skill"
+    },
+    {
+        "input": "Husky",
+        "label": "t_skill"
+    },
+    {
+        "input": "team enhancement",
+        "label": "o_skill"
+    },
+    {
+        "input": "NFT (Non-Fungible Tokens)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Hashcat",
+        "label": "t_skill"
+    },
+    {
+        "input": "advice oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "result focused progress",
+        "label": "o_skill"
+    },
+    {
+        "input": "dedication",
+        "label": "o_skill"
+    },
+    {
+        "input": "MongoDB",
+        "label": "t_skill"
+    },
+    {
+        "input": "skills",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution focused deliverable",
+        "label": "o_skill"
+    },
+    {
+        "input": "result deliverable orientated",
+        "label": "o_skill"
+    },
+    {
+        "input": "D3.js",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarification",
+        "label": "o_skill"
+    },
+    {
+        "input": "effective project",
+        "label": "o_skill"
+    },
+    {
+        "input": "organizational focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "team building",
+        "label": "o_skill"
+    },
+    {
+        "input": "collaborative",
+        "label": "o_skill"
+    },
+    {
+        "input": "Smart Contract Vulnerabilities",
+        "label": "t_skill"
+    },
+    {
+        "input": "Event Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "results orientated execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "work targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "Carbon Black",
+        "label": "t_skill"
+    },
+    {
+        "input": "Incident Response",
+        "label": "t_skill"
+    },
+    {
+        "input": "project results execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "evaluation driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Nagios",
+        "label": "t_skill"
+    },
+    {
+        "input": "SCADA Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "Grafana",
+        "label": "t_skill"
+    },
+    {
+        "input": "Nexus Repository",
+        "label": "t_skill"
+    },
+    {
+        "input": "improvement",
+        "label": "o_skill"
+    },
+    {
+        "input": "design",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure API Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "conflict mitigation",
+        "label": "o_skill"
+    },
+    {
+        "input": "AppDynamics",
+        "label": "t_skill"
+    },
+    {
+        "input": "refined process",
+        "label": "o_skill"
+    },
+    {
+        "input": "contribute",
+        "label": "o_skill"
+    },
+    {
+        "input": "IoT Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks oriented results",
+        "label": "o_skill"
+    },
+    {
+        "input": "K-Nearest Neighbors",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks output execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Proxmox",
+        "label": "t_skill"
+    },
+    {
+        "input": "will",
+        "label": "o_skill"
+    },
+    {
+        "input": "Knowledge Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "GitLab",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks delivery oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "effective results",
+        "label": "o_skill"
+    },
+    {
+        "input": "such",
+        "label": "o_skill"
+    },
+    {
+        "input": "Decentralized Applications (DApps)",
+        "label": "t_skill"
+    },
+    {
+        "input": "objective approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "OAuth",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache Kafka",
+        "label": "t_skill"
+    },
+    {
+        "input": "Data Encryption in Transit",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cryptocurrency Payment Gateways",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions delivery output",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloud Resource Optimization",
+        "label": "t_skill"
+    },
+    {
+        "input": "direction orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution oriented goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified approach execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "balance",
+        "label": "o_skill"
+    },
+    {
+        "input": "successful contribution",
+        "label": "o_skill"
+    },
+    {
+        "input": "DNSSEC",
+        "label": "t_skill"
+    },
+    {
+        "input": "team results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "result clarification",
+        "label": "o_skill"
+    },
+    {
+        "input": "Data Warehouse",
+        "label": "t_skill"
+    },
+    {
+        "input": "Hyperledger Sawtooth",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution driven delivery plan",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Drill",
+        "label": "t_skill"
+    },
+    {
+        "input": "PagerDuty",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks delivery oriented results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloud Governance",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks output focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "cooperation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Chef",
+        "label": "t_skill"
+    },
+    {
+        "input": "Flutter",
+        "label": "t_skill"
+    },
+    {
+        "input": "attainable goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "socializing",
+        "label": "o_skill"
+    },
+    {
+        "input": "Packer",
+        "label": "t_skill"
+    },
+    {
+        "input": "Redshift",
+        "label": "t_skill"
+    },
+    {
+        "input": "tactical goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "SnapLogic",
+        "label": "t_skill"
+    },
+    {
+        "input": "engineer",
+        "label": "o_skill"
+    },
+    {
+        "input": "Azure Event Hubs",
+        "label": "t_skill"
+    },
+    {
+        "input": "Nikto",
+        "label": "t_skill"
+    },
+    {
+        "input": "AWS Transit Gateway",
+        "label": "t_skill"
+    },
+    {
+        "input": "efficient results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Katalon Studio",
+        "label": "t_skill"
+    },
+    {
+        "input": "tcpdump",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks driven results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Virtual Machines",
+        "label": "t_skill"
+    },
+    {
+        "input": "Kong",
+        "label": "t_skill"
+    },
+    {
+        "input": "quality",
+        "label": "o_skill"
+    },
+    {
+        "input": "OWASP Top 10",
+        "label": "t_skill"
+    },
+    {
+        "input": "Akamai",
+        "label": "t_skill"
+    },
+    {
+        "input": "creatively",
+        "label": "o_skill"
+    },
+    {
+        "input": "Smart Contracts",
+        "label": "t_skill"
+    },
+    {
+        "input": "completion orientated",
+        "label": "o_skill"
+    },
+    {
+        "input": "Security Testing Tools",
+        "label": "t_skill"
+    },
+    {
+        "input": "Blockchain Data Storage",
+        "label": "t_skill"
+    },
+    {
+        "input": "critical input",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution oriented results execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloud Run",
+        "label": "t_skill"
+    },
+    {
+        "input": "Tableau",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cloud Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "result oriented tasks",
+        "label": "o_skill"
+    },
+    {
+        "input": "decision oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "review",
+        "label": "o_skill"
+    },
+    {
+        "input": "implementation focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "performance focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "Juniper SRX",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified results action",
+        "label": "o_skill"
+    },
+    {
+        "input": "result oriented delivery focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal oriented solutions",
+        "label": "o_skill"
+    },
+    {
+        "input": "Hyperledger Fabric",
+        "label": "t_skill"
+    },
+    {
+        "input": "Self-Service Portal",
+        "label": "t_skill"
+    },
+    {
+        "input": "Data Lakehouse",
+        "label": "t_skill"
+    },
+    {
+        "input": "coaching",
+        "label": "o_skill"
+    },
+    {
+        "input": "results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Static Analysis",
+        "label": "t_skill"
+    },
+    {
+        "input": "Request Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure ExpressRoute",
+        "label": "t_skill"
+    },
+    {
+        "input": "delivery driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "sets",
+        "label": "o_skill"
+    },
+    {
+        "input": "effective action results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Puppet",
+        "label": "t_skill"
+    },
+    {
+        "input": "Subversion",
+        "label": "t_skill"
+    },
+    {
+        "input": "team results oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "improvement driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Tailwind CSS",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution execution focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "NumPy",
+        "label": "t_skill"
+    },
+    {
+        "input": "MXNet",
+        "label": "t_skill"
+    },
+    {
+        "input": "responsibilities",
+        "label": "o_skill"
+    },
+    {
+        "input": "Celigo",
+        "label": "t_skill"
+    },
+    {
+        "input": "technical",
+        "label": "o_skill"
+    },
+    {
+        "input": "critical thinking",
+        "label": "o_skill"
+    },
+    {
+        "input": "plan implementation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Security Assertion Markup Language (SAML)",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions driven delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution",
+        "label": "o_skill"
+    },
+    {
+        "input": "effective execution results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Linkerd",
+        "label": "t_skill"
+    },
+    {
+        "input": "Vertica",
+        "label": "t_skill"
+    },
+    {
+        "input": "collaborative skills",
+        "label": "o_skill"
+    },
+    {
+        "input": "Splunk",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified decision",
+        "label": "o_skill"
+    },
+    {
+        "input": "role",
+        "label": "o_skill"
+    },
+    {
+        "input": "strategic output",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ruby",
+        "label": "t_skill"
+    },
+    {
+        "input": "objective",
+        "label": "o_skill"
+    },
+    {
+        "input": "clear target",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks achievement",
+        "label": "o_skill"
+    },
+    {
+        "input": "ThreatX",
+        "label": "t_skill"
+    },
+    {
+        "input": "jQuery",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal execution results",
+        "label": "o_skill"
+    },
+    {
+        "input": "adapt",
+        "label": "o_skill"
+    },
+    {
+        "input": "creative",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cloud Workload Protection",
+        "label": "t_skill"
+    },
+    {
+        "input": "Grafana",
+        "label": "t_skill"
+    },
+    {
+        "input": "ethics",
+        "label": "o_skill"
+    },
+    {
+        "input": "comprehending",
+        "label": "o_skill"
+    },
+    {
+        "input": "team",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution focused execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Microsoft Power BI",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache HBase",
+        "label": "t_skill"
+    },
+    {
+        "input": "commitment",
+        "label": "o_skill"
+    },
+    {
+        "input": "BGP Routing",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal output focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "workforce driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Logistic Regression",
+        "label": "t_skill"
+    },
+    {
+        "input": "CircleCI",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache Subversion",
+        "label": "t_skill"
+    },
+    {
+        "input": "Mocha",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Web3 dApp Hosting",
+        "label": "t_skill"
+    },
+    {
+        "input": "Initial Coin Offerings (ICOs)",
+        "label": "t_skill"
+    },
+    {
+        "input": "performance focused results",
+        "label": "o_skill"
+    },
+    {
+        "input": "HSM (Hardware Security Module)",
+        "label": "t_skill"
+    },
+    {
+        "input": "SAP Integration",
+        "label": "t_skill"
+    },
+    {
+        "input": "clear decision making",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution result focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "talent development",
+        "label": "o_skill"
+    },
+    {
+        "input": "Threat Hunting",
+        "label": "t_skill"
+    },
+    {
+        "input": "strategic",
+        "label": "o_skill"
+    },
+    {
+        "input": "Snort",
+        "label": "t_skill"
+    },
+    {
+        "input": "adaptability driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "GitOps",
+        "label": "t_skill"
+    },
+    {
+        "input": "delivered results",
+        "label": "o_skill"
+    },
+    {
+        "input": "test driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "progressive",
+        "label": "o_skill"
+    },
+    {
+        "input": "Hadoop YARN",
+        "label": "t_skill"
+    },
+    {
+        "input": "Datadog",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal contribution",
+        "label": "o_skill"
+    },
+    {
+        "input": "desirable",
+        "label": "o_skill"
+    },
+    {
+        "input": "Spring Boot",
+        "label": "t_skill"
+    },
+    {
+        "input": "confidence",
+        "label": "o_skill"
+    },
+    {
+        "input": "Docker Swarm",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "Network Segmentation",
+        "label": "t_skill"
+    },
+    {
+        "input": "final results focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Spring Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "mentorship",
+        "label": "o_skill"
+    },
+    {
+        "input": "Svn",
+        "label": "t_skill"
+    },
+    {
+        "input": "Mocking",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "networking focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "OAuth 2.0",
+        "label": "t_skill"
+    },
+    {
+        "input": "positive action",
+        "label": "o_skill"
+    },
+    {
+        "input": "Liquidity Pools",
+        "label": "t_skill"
+    },
+    {
+        "input": "task deliverable focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem solving results driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "solutions oriented",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google API Gateway",
+        "label": "t_skill"
+    },
+    {
+        "input": "strategic actions",
+        "label": "o_skill"
+    },
+    {
+        "input": "role driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution execution targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "results plan",
+        "label": "o_skill"
+    },
+    {
+        "input": "API Gateway",
+        "label": "t_skill"
+    },
+    {
+        "input": "cohesive",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution clarified",
+        "label": "o_skill"
+    },
+    {
+        "input": "result completion execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Graylog",
+        "label": "t_skill"
+    },
+    {
+        "input": "work delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "Dynamic Application Security Testing (DAST)",
+        "label": "t_skill"
+    },
+    {
+        "input": "complete solution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Blue Teaming",
+        "label": "t_skill"
+    },
+    {
+        "input": "OpenID Connect",
+        "label": "t_skill"
+    },
+    {
+        "input": "mentoring",
+        "label": "o_skill"
+    },
+    {
+        "input": "efficiency orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Secure Configuration Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "plan execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cognos Analytics",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cloud Health",
+        "label": "t_skill"
+    },
+    {
+        "input": "Blockchain-as-a-Service (BaaS)",
+        "label": "t_skill"
+    },
+    {
+        "input": "visibility",
+        "label": "o_skill"
+    },
+    {
+        "input": "Amazon Kinesis",
+        "label": "t_skill"
+    },
+    {
+        "input": "advancement driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "innovation orientated",
+        "label": "o_skill"
+    },
+    {
+        "input": "collaborate",
+        "label": "o_skill"
+    },
+    {
+        "input": "Raygun",
+        "label": "t_skill"
+    },
+    {
+        "input": "business",
+        "label": "o_skill"
+    },
+    {
+        "input": "Jupyter Notebook",
+        "label": "t_skill"
+    },
+    {
+        "input": "DAOs Governance",
+        "label": "t_skill"
+    },
+    {
+        "input": "ETL (Extract, Transform, Load)",
+        "label": "t_skill"
+    },
+    {
+        "input": "support driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "IPFS File Storage",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache Pulsar",
+        "label": "t_skill"
+    },
+    {
+        "input": "approaches",
+        "label": "o_skill"
+    },
+    {
+        "input": "VMware vSphere",
+        "label": "t_skill"
+    },
+    {
+        "input": "project",
+        "label": "o_skill"
+    },
+    {
+        "input": "verbal",
+        "label": "o_skill"
+    },
+    {
+        "input": "deadlines",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cryptography in Blockchain",
+        "label": "t_skill"
+    },
+    {
+        "input": "problem solving targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "Rate Limiting",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal delivery focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "SoapUI",
+        "label": "t_skill"
+    },
+    {
+        "input": "Command Injection",
+        "label": "t_skill"
+    },
+    {
+        "input": "Heroku",
+        "label": "t_skill"
+    },
+    {
+        "input": "output orientated",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS CloudTrail",
+        "label": "t_skill"
+    },
+    {
+        "input": "Web3.js",
+        "label": "t_skill"
+    },
+    {
+        "input": "Linode",
+        "label": "t_skill"
+    },
+    {
+        "input": "Proof-of-Work Mining",
+        "label": "t_skill"
+    },
+    {
+        "input": "Perforce",
+        "label": "t_skill"
+    },
+    {
+        "input": "positive",
+        "label": "o_skill"
+    },
+    {
+        "input": "REST APIs",
+        "label": "t_skill"
+    },
+    {
+        "input": "Terraform",
+        "label": "t_skill"
+    },
+    {
+        "input": "plan achievements",
+        "label": "o_skill"
+    },
+    {
+        "input": "task delivery driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "Asset Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "TLS/SSL",
+        "label": "t_skill"
+    },
+    {
+        "input": "Docker Compose",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cryptography",
+        "label": "t_skill"
+    },
+    {
+        "input": "productive",
+        "label": "o_skill"
+    },
+    {
+        "input": "final delivery focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Web3 Development",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks delivery results",
+        "label": "o_skill"
+    },
+    {
+        "input": "HubSpot",
+        "label": "t_skill"
+    },
+    {
+        "input": "MPLS",
+        "label": "t_skill"
+    },
+    {
+        "input": "impact driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "productivity",
+        "label": "o_skill"
+    },
+    {
+        "input": "SAML",
+        "label": "t_skill"
+    },
+    {
+        "input": "clarified target",
+        "label": "o_skill"
+    },
+    {
+        "input": "Quantum Cryptography",
+        "label": "t_skill"
+    },
+    {
+        "input": "Penetration Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "complex",
+        "label": "o_skill"
+    },
+    {
+        "input": "refinement",
+        "label": "o_skill"
+    },
+    {
+        "input": "results individual",
+        "label": "o_skill"
+    },
+    {
+        "input": "teamwork impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "Threat Detection",
+        "label": "t_skill"
+    },
+    {
+        "input": "effectiveness",
+        "label": "o_skill"
+    },
+    {
+        "input": "Deep Learning",
+        "label": "t_skill"
+    },
+    {
+        "input": "Elastic Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "objectivity driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "program",
+        "label": "o_skill"
+    },
+    {
+        "input": "Google Cloud Trace",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apigee",
+        "label": "t_skill"
+    },
+    {
+        "input": "Splunk",
+        "label": "t_skill"
+    },
+    {
+        "input": "VMWare Tanzu",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks results targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified project results",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified output",
+        "label": "o_skill"
+    },
+    {
+        "input": "team achievement",
+        "label": "o_skill"
+    },
+    {
+        "input": "GCP Security Command Center",
+        "label": "t_skill"
+    },
+    {
+        "input": "DL4J",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "performance impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "WorkFusion",
+        "label": "t_skill"
+    },
+    {
+        "input": "leadership",
+        "label": "o_skill"
+    },
+    {
+        "input": "accountable",
+        "label": "o_skill"
+    },
+    {
+        "input": "OpenShift",
+        "label": "t_skill"
+    },
+    {
+        "input": "goal orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Apache Camel",
+        "label": "t_skill"
+    },
+    {
+        "input": "performance driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "cooperative",
+        "label": "o_skill"
+    },
+    {
+        "input": "ELK Stack",
+        "label": "t_skill"
+    },
+    {
+        "input": "execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "further development",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified goals results",
+        "label": "o_skill"
+    },
+    {
+        "input": "solutions targeted delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "GPT-3",
+        "label": "t_skill"
+    },
+    {
+        "input": "Sisense",
+        "label": "t_skill"
+    },
+    {
+        "input": "work flow",
+        "label": "o_skill"
+    },
+    {
+        "input": "Proof-of-History",
+        "label": "t_skill"
+    },
+    {
+        "input": "performance",
+        "label": "o_skill"
+    },
+    {
+        "input": "advancement",
+        "label": "o_skill"
+    },
+    {
+        "input": "Datadog",
+        "label": "t_skill"
+    },
+    {
+        "input": "standards",
+        "label": "o_skill"
+    },
+    {
+        "input": "successful",
+        "label": "o_skill"
+    },
+    {
+        "input": "priorities",
+        "label": "o_skill"
+    },
+    {
+        "input": "management orientated",
+        "label": "o_skill"
+    },
+    {
+        "input": "IT Compliance Auditing",
+        "label": "t_skill"
+    },
+    {
+        "input": "Azure Service Bus",
+        "label": "t_skill"
+    },
+    {
+        "input": "New Relic APM",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "MySQL",
+        "label": "t_skill"
+    },
+    {
+        "input": "Helm Charts",
+        "label": "t_skill"
+    },
+    {
+        "input": "complete action",
+        "label": "o_skill"
+    },
+    {
+        "input": "result completion orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "Looker",
+        "label": "t_skill"
+    },
+    {
+        "input": "approach performance",
+        "label": "o_skill"
+    },
+    {
+        "input": "result oriented progress",
+        "label": "o_skill"
+    },
+    {
+        "input": "TeamCity",
+        "label": "t_skill"
+    },
+    {
+        "input": "Apache JMeter",
+        "label": "t_skill"
+    },
+    {
+        "input": "communications driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "team focus goals",
+        "label": "o_skill"
+    },
+    {
+        "input": "Configuration Management",
+        "label": "t_skill"
+    },
+    {
+        "input": "Consensus Algorithms (PoW, PoS)",
+        "label": "t_skill"
+    },
+    {
+        "input": "SAP BusinessObjects",
+        "label": "t_skill"
+    },
+    {
+        "input": "tasks result delivery",
+        "label": "o_skill"
+    },
+    {
+        "input": "innovation impact",
+        "label": "o_skill"
+    },
+    {
+        "input": "cross functional",
+        "label": "o_skill"
+    },
+    {
+        "input": "approach steps",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks execution targets",
+        "label": "o_skill"
+    },
+    {
+        "input": "LoRaWAN",
+        "label": "t_skill"
+    },
+    {
+        "input": "Logstash",
+        "label": "t_skill"
+    },
+    {
+        "input": "Nessus",
+        "label": "t_skill"
+    },
+    {
+        "input": "focused action",
+        "label": "o_skill"
+    },
+    {
+        "input": "innovation",
+        "label": "o_skill"
+    },
+    {
+        "input": "AutoML",
+        "label": "t_skill"
+    },
+    {
+        "input": "Cloud-native Security",
+        "label": "t_skill"
+    },
+    {
+        "input": "decision driven results",
+        "label": "o_skill"
+    },
+    {
+        "input": "CI/CD",
+        "label": "t_skill"
+    },
+    {
+        "input": "Buffer Overflow",
+        "label": "t_skill"
+    },
+    {
+        "input": "Reverse Proxy",
+        "label": "t_skill"
+    },
+    {
+        "input": "solution orientated task results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Service Mesh",
+        "label": "t_skill"
+    },
+    {
+        "input": "plan execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "supporting roles",
+        "label": "o_skill"
+    },
+    {
+        "input": "CircleCI",
+        "label": "t_skill"
+    },
+    {
+        "input": "Google Dataproc",
+        "label": "t_skill"
+    },
+    {
+        "input": "analytical",
+        "label": "o_skill"
+    },
+    {
+        "input": "Automate",
+        "label": "t_skill"
+    },
+    {
+        "input": "tracking",
+        "label": "o_skill"
+    },
+    {
+        "input": "tasks outcome achievement",
+        "label": "o_skill"
+    },
+    {
+        "input": "Microservices",
+        "label": "t_skill"
+    },
+    {
+        "input": "Prometheus",
+        "label": "t_skill"
+    },
+    {
+        "input": "finalized task",
+        "label": "o_skill"
+    },
+    {
+        "input": "solutions completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "Ruby on Rails",
+        "label": "t_skill"
+    },
+    {
+        "input": "capabilities",
+        "label": "o_skill"
+    },
+    {
+        "input": "organizing",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified",
+        "label": "o_skill"
+    },
+    {
+        "input": "trend",
+        "label": "o_skill"
+    },
+    {
+        "input": "SQL Server Analysis Services",
+        "label": "t_skill"
+    },
+    {
+        "input": "execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Stress Testing",
+        "label": "t_skill"
+    },
+    {
+        "input": "DigitalOcean Kubernetes",
+        "label": "t_skill"
+    },
+    {
+        "input": "action based",
+        "label": "o_skill"
+    },
+    {
+        "input": "Jenkins",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions approach",
+        "label": "o_skill"
+    },
+    {
+        "input": "refinement",
+        "label": "o_skill"
+    },
+    {
+        "input": "team assessment",
+        "label": "o_skill"
+    },
+    {
+        "input": "Encryption Algorithms",
+        "label": "t_skill"
+    },
+    {
+        "input": "SSL/TLS Certificates",
+        "label": "t_skill"
+    },
+    {
+        "input": "problem solving",
+        "label": "o_skill"
+    },
+    {
+        "input": "goal setting achievement",
+        "label": "o_skill"
+    },
+    {
+        "input": "NATS",
+        "label": "t_skill"
+    },
+    {
+        "input": "Android",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified outcome focus",
+        "label": "o_skill"
+    },
+    {
+        "input": "Jaeger",
+        "label": "t_skill"
+    },
+    {
+        "input": "Bugsnag",
+        "label": "t_skill"
+    },
+    {
+        "input": "results",
+        "label": "o_skill"
+    },
+    {
+        "input": "understand",
+        "label": "o_skill"
+    },
+    {
+        "input": "Cross-Site Scripting (XSS)",
+        "label": "t_skill"
+    },
+    {
+        "input": "Postman",
+        "label": "t_skill"
+    },
+    {
+        "input": "Blue Prism",
+        "label": "t_skill"
+    },
+    {
+        "input": "SFTP",
+        "label": "t_skill"
+    },
+    {
+        "input": "tactics driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "clarified solution",
+        "label": "o_skill"
+    },
+    {
+        "input": "coherent",
+        "label": "o_skill"
+    },
+    {
+        "input": "solution finished",
+        "label": "o_skill"
+    },
+    {
+        "input": "SOAP",
+        "label": "t_skill"
+    },
+    {
+        "input": "Proof-of-Work",
+        "label": "t_skill"
+    },
+    {
+        "input": "DHCP",
+        "label": "t_skill"
+    },
+    {
+        "input": "Webpack",
+        "label": "t_skill"
+    },
+    {
+        "input": "have",
+        "label": "o_skill"
+    },
+    {
+        "input": "integrative",
+        "label": "o_skill"
+    },
+    {
+        "input": "skills focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "plan target execution",
+        "label": "o_skill"
+    },
+    {
+        "input": "Wireshark",
+        "label": "t_skill"
+    },
+    {
+        "input": "communication focused",
+        "label": "o_skill"
+    },
+    {
+        "input": "teamwork driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "project based results",
+        "label": "o_skill"
+    },
+    {
+        "input": "executing",
+        "label": "o_skill"
+    },
+    {
+        "input": "decisions driven",
+        "label": "o_skill"
+    },
+    {
+        "input": "OpenAI API",
+        "label": "t_skill"
+    },
+    {
+        "input": "HTTP/2",
+        "label": "t_skill"
+    },
+    {
+        "input": "Zero-Knowledge Rollups",
+        "label": "t_skill"
+    },
+    {
+        "input": "problem solving",
+        "label": "o_skill"
+    },
+    {
+        "input": "structure",
+        "label": "o_skill"
+    },
+    {
+        "input": "Bitcoin Development",
+        "label": "t_skill"
+    },
+    {
+        "input": "build",
+        "label": "o_skill"
+    },
+    {
+        "input": "output orientation",
+        "label": "o_skill"
+    },
+    {
+        "input": "timely completion",
+        "label": "o_skill"
+    },
+    {
+        "input": "SQL",
+        "label": "t_skill"
+    },
+    {
+        "input": "RabbitMQ",
+        "label": "t_skill"
+    },
+    {
+        "input": "project orientated",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem solving",
+        "label": "o_skill"
+    },
+    {
+        "input": "Rollbar",
+        "label": "t_skill"
+    },
+    {
+        "input": "ERC-20 Tokens",
+        "label": "t_skill"
+    },
+    {
+        "input": "framework",
+        "label": "o_skill"
+    },
+    {
+        "input": "ICO Scams",
+        "label": "t_skill"
+    },
+    {
+        "input": "requirements",
+        "label": "o_skill"
+    },
+    {
+        "input": "Consensus Mechanisms",
+        "label": "t_skill"
+    },
+    {
+        "input": "ownership",
+        "label": "o_skill"
+    },
+    {
+        "input": "employee",
+        "label": "o_skill"
+    },
+    {
+        "input": "Kubernetes",
+        "label": "t_skill"
+    },
+    {
+        "input": "integrating",
+        "label": "o_skill"
+    },
+    {
+        "input": "execution performance",
+        "label": "o_skill"
+    },
+    {
+        "input": "AWS KMS (Key Management Service)",
+        "label": "t_skill"
+    },
+    {
+        "input": "adaptable results",
+        "label": "o_skill"
+    },
+    {
+        "input": "Machine Learning",
+        "label": "t_skill"
+    },
+    {
+        "input": "solutions achieving results",
+        "label": "o_skill"
+    },
+    {
+        "input": "network",
+        "label": "o_skill"
+    },
+    {
+        "input": "problem execution results",
+        "label": "o_skill"
+    },
+    {
+        "input": "New Relic",
+        "label": "t_skill"
+    },
+    {
+        "input": "Nmap",
+        "label": "t_skill"
+    },
+    {
+        "input": "TestComplete",
+        "label": "t_skill"
+    }
+]
