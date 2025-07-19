@@ -63,14 +63,9 @@ const predict = async (model, testingData) => {
 }
 
 const run = async () => {
-    const trainingData = dataset.slice(0, 800);
-    const testingData = dataset.slice(800, dataset.length);
     const model = await createModel();
-    await trainModel(model, trainingData, 45)
-    const data = await predict(model, testingData);
-    data.forEach((x, i) => {
-        console.log(testingData[i], x === 0 ? 't_skill' : 'o_skill');
-    })
+    await trainModel(model, dataset, 14)
+    model.save('file://model');
 }
 
 run();

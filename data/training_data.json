@@ -12,6 +12,14 @@
         "label": "t_skill"
     },
     {
+        "input": "C",
+        "label": "t_skill"
+    },
+    {
+        "input": "C#",
+        "label": "t_skill"
+    },
+    {
         "input": "ESLint",
         "label": "t_skill"
     },
