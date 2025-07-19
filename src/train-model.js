@@ -53,7 +53,7 @@ const createModel = async () => {
 const trainModel = async (model, trainingData, epochs) => {
     const input = await encodeData(trainingData);
     const output = await getOutputData(trainingData);
-    await model.fit(input, output, { epochs });
+    await model.fit(input, output, { epochs, shuffle: true, batchSize: 64 });
 }
 
 const run = async () => {
