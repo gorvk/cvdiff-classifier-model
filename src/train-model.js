@@ -44,7 +44,7 @@ const createModel = async () => {
 
     model.compile({
         loss: 'meanSquaredError',
-        optimizer: tf.train.adam(.06),
+        optimizer: 'adam',
     });
 
     return model;
@@ -53,19 +53,13 @@ const createModel = async () => {
 const trainModel = async (model, trainingData, epochs) => {
     const input = await encodeData(trainingData);
     const output = await getOutputData(trainingData);
-    model.fit(input, output, { epochs });
-}
-
-const predict = async (model, testingData) => {
-    const input = await encodeData(testingData);
-    const data = await model.predict(input).argMax(1).data();
-    return data;
+    await model.fit(input, output, { epochs });
 }
 
 const run = async () => {
     const model = await createModel();
-    await trainModel(model, dataset, 14)
-    model.save('file://model');
+    await trainModel(model, dataset, 1000)
+    await model.save('file://model');
 }
 
 run();

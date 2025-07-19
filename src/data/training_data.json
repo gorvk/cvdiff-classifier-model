@@ -1,5 +1,21 @@
 [
     {
+        "input": "Frontend",
+        "label": "t_skill"
+    },
+    {
+        "input": "Database",
+        "label": "t_skill"
+    },
+    {
+        "input": "UI",
+        "label": "t_skill"
+    },
+    {
+        "input": "back end",
+        "label": "t_skill"
+    },
+    {
         "input": "Service Delivery Management",
         "label": "t_skill"
     },
@@ -6132,7 +6148,7 @@
         "label": "o_skill"
     },
     {
-        "input": "Vue.js",
+        "input": "Vue",
         "label": "t_skill"
     },
     {
