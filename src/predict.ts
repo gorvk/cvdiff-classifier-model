@@ -1,44 +1,43 @@
-import * as tf from "@tensorflow/tfjs-node";
-import * as use from "@tensorflow-models/universal-sentence-encoder";
-import tokenizer from "./tokenizer.js";
+import { loadLayersModel, tensor2d } from "@tensorflow/tfjs-node";
+import tokenizer from "./utils/tokenizer.js";
+import { inputEncoder } from "./utils/encoder.js";
 
-const encodeData = async (data) => {
-  try {
-    const model = await use.load();
-    return await model.embed(data);
-  } catch (err) {
-    console.error("Fit Error:", err);
-    return null;
+const predict = async (testingData: string[]) => {
+  const model = await loadLayersModel("file://model/model.json");
+  const input = await inputEncoder(testingData);
+  if (!input) {
+    return;
   }
-};
 
-const predict = async (testingData) => {
-  const model = await tf.loadLayersModel("file://model/model.json");
-  const input = await encodeData(testingData);
-  const data = await model.predict(input).argMax(1).data();
-  data.forEach((x, i) => {
-    console.log(testingData[i], x === 0 ? "t_skill" : "o_skill");
-  });
+  const prediction = model.predict(tensor2d(input));
 
-  console.log(
-    "*********************************************************************************"
-  );
+  if (!Array.isArray(prediction)) {
+    const data = await prediction.argMax(1).data();
+    data.forEach((x: number, i: number) => {
+      console.log(testingData[i], x === 0 ? "t_skill" : "o_skill");
+    });
 
-  data.forEach((d, i) => {
-    if (d === 0) {
-      console.log(testingData[i]);
-    }
-  });
+    console.log(
+      "*********************************************************************************"
+    );
 
-  console.log(
-    "*********************************************************************************"
-  );
+    data.forEach((x: number, i: number) => {
+      if (x === 0) {
+        console.log(testingData[i]);
+      }
+    });
 
-  data.forEach((d, i) => {
-    if (d === 1) {
-      console.log(testingData[i]);
-    }
-  });
+    console.log(
+      "*********************************************************************************"
+    );
+
+    data.forEach((x: number, i: number) => {
+      if (x === 1) {
+        console.log(testingData[i]);
+      }
+    });
+  }
+
 };
 
 const JD =

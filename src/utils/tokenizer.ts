@@ -1,4 +1,4 @@
-const tokenizer = (str) =>
+const tokenizer = (str: string) =>
   str
     .toLowerCase()
     .replace(/[^a-z0-9\s]/g, "") // remove special characters

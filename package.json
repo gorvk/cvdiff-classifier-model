@@ -1,20 +1,22 @@
 {
   "name": "cvdiff",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
   "scripts": {
-    "model:train": "node src/train-model.js",
-    "model:predict": "node src/predict.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "model:train": "npm run build && node dist/train.js",
+    "model:predict": "npm run build && node dist/predict.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "gorvk",
   "license": "ISC",
-  "description": "",
+  "description": "tech skills and non tech skills, text classifier",
   "dependencies": {
     "@tensorflow-models/universal-sentence-encoder": "^1.3.3",
-    "@tensorflow/tfjs": "^4.22.0",
     "@tensorflow/tfjs-node": "^4.22.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "@types/node": "^24.0.15"
   }
 }
